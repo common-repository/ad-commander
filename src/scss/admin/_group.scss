@@ -1,0 +1,251 @@
+.adcmdr-group-ad-list {
+	table {
+		margin-bottom: $gutter-width;
+	}
+}
+
+.adcmdr-term-ad-search {
+	border-bottom: 1px solid $wp-border-color;
+	padding-bottom: $gutter-width-half;
+	margin-bottom: $gutter-width-half;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+
+	label {
+		font-weight: 700;
+		margin-bottom: 4px;
+	}
+}
+
+.adcmdr-no-ads {
+	font-style: italic;
+}
+
+.wp-admin {
+	&.taxonomy-adcmdr_group {
+		#addtag,
+		#edittag {
+			.term-slug-wrap,
+			.term-description-wrap {
+				display: none;
+			}
+		}
+
+		#edittag {
+			display: flex;
+			flex-direction: row;
+			flex-wrap: wrap;
+			max-width: none;
+			margin-top: $gutter-width-half;
+
+			> * {
+				order: 1;
+			}
+
+			> .adcmdr-goback {
+				order: 0;
+			}
+
+			.adcmdr-group-meta-wrap {
+				order: 0;
+
+				@media only screen and (min-width: $adm-breakpoint-lg) {
+					max-width: 800px;
+					width: calc(60% - #{$gutter-width});
+				}
+
+				> .postbox {
+					@extend %box;
+					border-bottom: none;
+					margin-top: 0;
+					margin-bottom: 0;
+
+					.postbox-header {
+						margin-top: 0;
+
+						h2 {
+							margin-top: 0;
+						}
+					}
+				}
+			}
+
+			.form-table {
+				@extend %box;
+				table-layout: fixed;
+				border-bottom: none;
+				padding: 0;
+				max-width: none;
+				width: 100%;
+				margin-top: 0;
+
+				th {
+					padding: $gutter-width-half 10px $gutter-width-half $gutter-width;
+					width: 120px;
+				}
+
+				td {
+					padding: $gutter-width-half 10px;
+
+					&:last-child {
+						padding-right: $gutter-width;
+					}
+				}
+
+				tr:first-child {
+					th,
+					td {
+						padding-top: $gutter-width;
+					}
+				}
+
+				tr:last-child {
+					th,
+					td {
+						padding-bottom: $gutter-width;
+					}
+				}
+			}
+
+			.edit-tag-actions {
+				@extend %box;
+				background-color: lighten($wp-border-color, 20%);
+				border-top-color: lighten($wp-border-color, 10%);
+				margin-top: 0;
+				width: 100%;
+
+				@media only screen and (min-width: $adm-breakpoint-lg) {
+					width: calc(60% - #{$gutter-width * 3} - 2px);
+					max-width: calc(800px - #{$gutter-width * 2} - 2px);
+				}
+			}
+
+			.adcmdr-group-preview {
+				@extend %box;
+				margin: $gutter-width 0;
+				width: 100%;
+				max-width: 1334px;
+				order: 99;
+
+				input {
+					+ .adcmdr-doc-link {
+						margin-top: 4px;
+
+						@media only screen and (min-width: $adm-breakpoint-md) {
+							margin-left: $gutter-width-half;
+							margin-top: 0;
+						}
+					}
+				}
+			}
+
+			.adcmdr-group-ad-list {
+				width: 100%;
+				order: 2;
+				margin: $gutter-width 0 0;
+
+				@media only screen and (min-width: $adm-breakpoint-lg) {
+					width: calc(40% - #{$gutter-width});
+					max-width: 534px;
+					padding: 0 $gutter-width;
+					margin: 0;
+					order: 1;
+				}
+
+				table {
+					max-width: 800px;
+
+					td {
+						border-bottom: 1px solid $wp-border-color;
+						vertical-align: middle;
+					}
+
+					.adcmdr-handle {
+						width: 15px;
+
+						img {
+							vertical-align: middle;
+						}
+					}
+
+					.adcmdr-weight {
+						display: none;
+						width: 64px;
+					}
+
+					.adcmdr-action {
+						width: 20px;
+					}
+
+					tr:last-child {
+						td {
+							border-bottom: none;
+						}
+					}
+
+					input[type="number"] {
+						width: 100%;
+					}
+
+					/*li {
+						border-bottom: 1px solid $wp-border-color;
+						padding: 8px 0;
+						margin-bottom: 0;
+						display: flex;
+						flex-direction: row;
+						flex-wrap: nowrap;
+						gap: $gutter-width-half;
+						//justify-content: space-between;
+						align-items: center;
+					}*/
+
+					a {
+						text-decoration: none;
+
+						&:hover {
+							text-decoration: underline;
+						}
+					}
+
+					.adcmdr-del {
+						cursor: pointer;
+						outline: none;
+						border: none;
+						box-shadow: none;
+						padding: 0;
+						background: none;
+						margin-left: auto;
+						vertical-align: middle;
+
+						opacity: 0.75;
+						transition:
+							opacity 100ms $ease,
+							transform 100ms $ease;
+
+						&:hover {
+							opacity: 1;
+							transform: scale(1.1);
+						}
+
+						&:disabled {
+							cursor: default;
+							opacity: 0.1;
+						}
+
+						svg {
+							height: 20px;
+							width: 20px;
+						}
+					}
+
+					~ p {
+						.noads {
+							display: none;
+						}
+					}
+				}
+			}
+		}
+	}
+}

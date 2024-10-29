@@ -1,0 +1,26 @@
+.adcmdr-rotate {
+	position: relative;
+
+	.adcmdr-ad {
+		transition: opacity $speed $ease;
+		display: none;
+		position: relative;
+		opacity: 0;
+		top: 0;
+		left: 0;
+
+		&.woactive {
+			display: block;
+			position: relative;
+			opacity: 1;
+		}
+
+		&.adcmdr-amp-ad {
+			display: block;
+			opacity: 1;
+			+ .adcmdr-amp-ad {
+				margin-top: $gutter-width-half;
+			}
+		}
+	}
+}

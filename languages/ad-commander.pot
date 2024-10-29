@@ -1,0 +1,4796 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Ad Commander - Banner & Ad Manager\n"
+"POT-Creation-Date: 2024-09-12 08:34-0500\n"
+"PO-Revision-Date: 2024-09-12 08:33-0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Poedit 3.5\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: ad-commander.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+"X-Poedit-SearchPathExcluded-1: blocks/ad-group-block/node_modules\n"
+"X-Poedit-SearchPathExcluded-2: dist/vendor\n"
+"X-Poedit-SearchPathExcluded-3: vendor\n"
+
+#: ad-commander.php:64
+msgid ""
+"Your reviews are invaluable to Ad Commander and help us maintain a free "
+"version of this plugin. We appreciate your support! If you need assistance, "
+"please visit the support section of this plugin."
+msgstr ""
+
+#: ad-commander.php:65
+msgid "Leave ★★★★★ rating"
+msgstr ""
+
+#: ad-commander.php:66
+msgid "I need help"
+msgstr ""
+
+#: ad-commander.php:67
+msgid "Remind me later"
+msgstr ""
+
+#: ad-commander.php:68
+msgid "Don't ask again"
+msgstr ""
+
+#: blocks/ad-group-block/src/edit.js:40 includes/AdCommander.php:24
+msgid "Ad Commander"
+msgstr ""
+
+#: blocks/ad-group-block/src/edit.js:42
+msgid "Select an ad or a group:"
+msgstr ""
+
+#: blocks/ad-group-block/src/edit.js:51
+msgid "Select an ad or a group"
+msgstr ""
+
+#: blocks/ad-group-block/src/edit.js:53
+msgid "Groups:"
+msgstr ""
+
+#: blocks/ad-group-block/src/edit.js:58
+msgid "Ads:"
+msgstr ""
+
+#: includes/AdPostMeta.php:230
+msgid "Image/Banner Ad"
+msgstr ""
+
+#: includes/AdPostMeta.php:231 includes/Admin.php:1022
+msgid "AdSense"
+msgstr ""
+
+#: includes/AdPostMeta.php:232
+msgid "Text or Code (Ad Networks)"
+msgstr ""
+
+#: includes/AdPostMeta.php:233
+msgid "Rich Content"
+msgstr ""
+
+#: includes/AdSense.php:48
+msgid "Display (Responsive)"
+msgstr ""
+
+#: includes/AdSense.php:49
+msgid "Display (Fixed)"
+msgstr ""
+
+#: includes/AdSense.php:50
+msgid "Multiplex"
+msgstr ""
+
+#: includes/AdSense.php:51
+msgid "In-article"
+msgstr ""
+
+#: includes/AdSense.php:52
+msgid "In-feed"
+msgstr ""
+
+#: includes/AdSense.php:63
+msgid "Default"
+msgstr ""
+
+#: includes/AdSense.php:64
+msgid "Side by Side"
+msgstr ""
+
+#: includes/AdSense.php:65
+msgid "Side by Side with Card"
+msgstr ""
+
+#: includes/AdSense.php:66
+msgid "Image Above Text"
+msgstr ""
+
+#: includes/AdSense.php:67
+msgid "Text Only"
+msgstr ""
+
+#: includes/AdSense.php:68
+msgid "Text with Card"
+msgstr ""
+
+#: includes/AdSense.php:90 includes/Util.php:36
+msgid "Site Default"
+msgstr ""
+
+#: includes/AdSense.php:91
+msgid "Convert AdSense ad to AMP ad"
+msgstr ""
+
+#: includes/AdSense.php:94
+msgid "Disable ad for AMP visits"
+msgstr ""
+
+#: includes/AdSenseNetworkAdUnit.php:182
+msgctxt "AdSense ad format"
+msgid "In-article"
+msgstr ""
+
+#: includes/AdSenseNetworkAdUnit.php:185
+msgctxt "AdSense ad format"
+msgid "Display"
+msgstr ""
+
+#: includes/AdSenseNetworkAdUnit.php:188
+msgctxt "AdSense ad format"
+msgid "Feed"
+msgstr ""
+
+#: includes/AdSenseNetworkAdUnit.php:191
+msgctxt "AdSense ad format"
+msgid "Link"
+msgstr ""
+
+#: includes/AdSenseNetworkAdUnit.php:194
+msgctxt "AdSense ad format"
+msgid "Multiplex"
+msgstr ""
+
+#: includes/AdSenseNetworkAdUnit.php:197
+msgctxt "AdSense ad format"
+msgid "Unknown"
+msgstr ""
+
+#: includes/Admin.php:290 includes/Admin.php:795
+msgid "Settings"
+msgstr ""
+
+#: includes/Admin.php:294 includes/Admin.php:849 includes/Admin.php:1224
+#: includes/AdminSupport.php:18
+msgid "Support"
+msgstr ""
+
+#: includes/Admin.php:804
+msgid "Dashboard"
+msgstr ""
+
+#: includes/Admin.php:813 includes/AdminDashboard.php:73
+#: includes/PostTypes.php:43
+msgid "Manage Ads"
+msgstr ""
+
+#: includes/Admin.php:822 includes/AdminDashboard.php:74
+msgid "Manage Groups"
+msgstr ""
+
+#: includes/Admin.php:831 includes/AdminDashboard.php:75
+#: includes/PostTypes.php:106
+msgid "Manage Placements"
+msgstr ""
+
+#: includes/Admin.php:840 includes/AdminReports.php:181
+msgid "Reports"
+msgstr ""
+
+#: includes/Admin.php:969 includes/Admin.php:981
+msgid "General"
+msgstr ""
+
+#: includes/Admin.php:983
+msgid "Ad & Group Rendering"
+msgstr ""
+
+#: includes/Admin.php:984 includes/AdminAdPostMeta.php:1229
+#: includes/AdminGroupTermMeta.php:716
+msgid "Ad Label"
+msgstr ""
+
+#: includes/Admin.php:985
+msgid "Class/ID Prefix"
+msgstr ""
+
+#: includes/Admin.php:986
+msgid "Loading animation"
+msgstr ""
+
+#: includes/Admin.php:990
+msgid "Default Banner Ad Settings"
+msgstr ""
+
+#: includes/Admin.php:992
+msgid "Link Target"
+msgstr ""
+
+#: includes/Admin.php:993
+msgid "Link Rel Attributes"
+msgstr ""
+
+#: includes/Admin.php:994 includes/AdminAdPostMeta.php:1216
+msgid "Responsive Ad Images"
+msgstr ""
+
+#: includes/Admin.php:998
+msgid "Disable Ads"
+msgstr ""
+
+#: includes/Admin.php:1000
+msgid "Disable All Ads"
+msgstr ""
+
+#: includes/Admin.php:1001
+msgid "Disable Ads for User Roles"
+msgstr ""
+
+#: includes/Admin.php:1002
+msgid "Disable Ads for Bots"
+msgstr ""
+
+#: includes/Admin.php:1006
+msgid "Virtual ads.txt"
+msgstr ""
+
+#: includes/Admin.php:1008
+msgid "Disable Ads.txt"
+msgstr ""
+
+#: includes/Admin.php:1009
+msgid "Ads.txt Records"
+msgstr ""
+
+#: includes/Admin.php:1013
+msgid "Advanced / Miscellaneous"
+msgstr ""
+
+#: includes/Admin.php:1015
+msgid "Placement Filter Priority"
+msgstr ""
+
+#: includes/Admin.php:1016
+msgid "Disable Plugin Stylesheets"
+msgstr ""
+
+#: includes/Admin.php:1025 includes/Admin.php:1027
+msgid "AdSense Account"
+msgstr ""
+
+#: includes/Admin.php:1028
+msgid "AdSense Alerts"
+msgstr ""
+
+#: includes/Admin.php:1032
+msgid "Auto Ads"
+msgstr ""
+
+#: includes/Admin.php:1034
+msgid "Insert AdSense Code"
+msgstr ""
+
+#: includes/Admin.php:1035
+msgid "AMP Auto Ads"
+msgstr ""
+
+#: includes/Admin.php:1039
+msgid "Default AMP Settings"
+msgstr ""
+
+#: includes/Admin.php:1041
+msgid "AdSense AMP ads"
+msgstr ""
+
+#: includes/Admin.php:1047 includes/AdminAdPostMeta.php:346
+msgid "Tracking"
+msgstr ""
+
+#: includes/Admin.php:1053
+msgid "Tracking Method"
+msgstr ""
+
+#: includes/Admin.php:1055
+msgid "Local Tracking"
+msgstr ""
+
+#: includes/Admin.php:1060
+msgid "Google Analytics (GA4)"
+msgstr ""
+
+#: includes/Admin.php:1066
+msgid "GA Tracking IDs"
+msgstr ""
+
+#: includes/Admin.php:1070
+msgid "GA Anonymize IP"
+msgstr ""
+
+#: includes/Admin.php:1076
+msgid "Disable Tracking"
+msgstr ""
+
+#: includes/Admin.php:1078
+msgid "Impression Tracking"
+msgstr ""
+
+#: includes/Admin.php:1079 includes/AdminAdPostMeta.php:1173
+msgid "Click tracking"
+msgstr ""
+
+#: includes/Admin.php:1080
+msgid "Disable Tracking for Bots"
+msgstr ""
+
+#: includes/Admin.php:1086 includes/AdminAdPostMeta.php:326
+#: includes/AdminGroupTermMeta.php:367 includes/AdminPlacementPostMeta.php:147
+msgid "Targeting"
+msgstr ""
+
+#: includes/Admin.php:1089
+msgid "Geotargeting"
+msgstr ""
+
+#: includes/Admin.php:1091
+msgid "Geolocation Service"
+msgstr ""
+
+#: includes/Admin.php:1093
+msgid "MaxMind License Key"
+msgstr ""
+
+#: includes/Admin.php:1098
+msgid "MaxMind Database"
+msgstr ""
+
+#: includes/Admin.php:1107
+msgid "Consent"
+msgstr ""
+
+#: includes/Admin.php:1112
+msgid "Require Consent"
+msgstr ""
+
+#: includes/Admin.php:1114
+msgid "Consent Cookie Name"
+msgstr ""
+
+#: includes/Admin.php:1118
+msgid "Consent Cookie Value"
+msgstr ""
+
+#: includes/Admin.php:1122
+msgid "Cookie Comparison"
+msgstr ""
+
+#: includes/Admin.php:1130
+msgid "Admin"
+msgstr ""
+
+#: includes/Admin.php:1133
+msgid "Onboarding"
+msgstr ""
+
+#: includes/Admin.php:1135
+msgid "Disable Onboarding Message"
+msgstr ""
+
+#: includes/Admin.php:1136
+msgid "Disable Ad Message"
+msgstr ""
+
+#: includes/Admin.php:1140
+msgid "Miscellaneous"
+msgstr ""
+
+#: includes/Admin.php:1142
+msgid "Disable Help Links"
+msgstr ""
+
+#: includes/Admin.php:1143
+msgid "Allow editors to manage"
+msgstr ""
+
+#: includes/Admin.php:1144
+msgid "Delete data on deactivation"
+msgstr ""
+
+#: includes/Admin.php:1150
+msgid "Add-ons"
+msgstr ""
+
+#: includes/Admin.php:1153
+msgid "Pro"
+msgstr ""
+
+#: includes/Admin.php:1155
+msgid "Pro License"
+msgstr ""
+
+#: includes/Admin.php:1180
+msgid "Multisite"
+msgstr ""
+
+#: includes/Admin.php:1182
+msgid "Allow unfiltered HTML"
+msgstr ""
+
+#: includes/Admin.php:1221
+msgid "Get Pro"
+msgstr ""
+
+#: includes/Admin.php:1223 includes/AdminOnboarding.php:282
+msgid "Documentation"
+msgstr ""
+
+#: includes/Admin.php:1607 includes/Admin.php:2451
+msgid "These settings can be overridden by individual ads if needed."
+msgstr ""
+
+#. translators: %1$s: anchor tag with URL, %2$s: close anchor tag, %3$s: Separately generated doc link
+#: includes/Admin.php:1619
+#, php-format
+msgid ""
+"Consent management only partially works with server-side rendering. "
+"%1$sUpdate render settings.%2$s %3$s"
+msgstr ""
+
+#: includes/Admin.php:1619 includes/AdminNotifications.php:331
+#: includes/AdminNotifications.php:349 includes/AdminNotifications.php:367
+msgid "Learn more"
+msgstr ""
+
+#: includes/Admin.php:1622
+msgid ""
+"Ad Commander does not create a consent banner. These settings allow you to "
+"integrate with a consent management plugin."
+msgstr ""
+
+#: includes/Admin.php:1703
+msgid ""
+"Ad Commander will attempt to generate an ads.txt in the root of your "
+"website. If an AdSense account is enabled, it will be included, along with "
+"any additional records added below."
+msgstr ""
+
+#: includes/Admin.php:1714
+msgid "Fine-tune tracking settings by disabling some features below."
+msgstr ""
+
+#: includes/Admin.php:1795
+msgid "License update is pending..."
+msgstr ""
+
+#: includes/Admin.php:1798
+msgid "License key active."
+msgstr ""
+
+#. translators: %1$s: anchor tag with URL, %2$s call to action text, %3$s: close anchor tag
+#: includes/Admin.php:1802
+#, php-format
+msgid "License key expired - %1$s%2$s%3$s"
+msgstr ""
+
+#: includes/Admin.php:1802
+msgid "Renew your license"
+msgstr ""
+
+#. translators: %1$s: anchor tag with URL, %2$s call to action text, %3$s: close anchor tag
+#: includes/Admin.php:1806
+#, php-format
+msgid "License has no remaining activations - %1$s%2$s%3$s"
+msgstr ""
+
+#: includes/Admin.php:1806
+msgid "Purchase a new license"
+msgstr ""
+
+#. translators: %1$s: response code, %2$s anchor tag with URL, %3$s call to action text, %4$s: close anchor tag
+#: includes/Admin.php:1810
+#, php-format
+msgid "License key invalid (response code: %1$s) - %2$s%3$s%4$s"
+msgstr ""
+
+#: includes/Admin.php:1810
+msgid "Purchase a license"
+msgstr ""
+
+#. translators: %1$s: anchor tag with URL, %2$s call to action text, %3$s: close anchor tag
+#: includes/Admin.php:1814
+#, php-format
+msgid "An unkonwn error occurred - Please %1$s%2$s%3$s"
+msgstr ""
+
+#: includes/Admin.php:1814
+msgid "contact support"
+msgstr ""
+
+#: includes/Admin.php:1839
+msgid "Select a service"
+msgstr ""
+
+#: includes/Admin.php:1843
+msgid "MaxMind"
+msgstr ""
+
+#: includes/Admin.php:1900
+msgid "Server-side"
+msgstr ""
+
+#: includes/Admin.php:1901
+msgid "Smart (Combination)"
+msgstr ""
+
+#: includes/Admin.php:1902
+msgid "Client-side Only"
+msgstr ""
+
+#: includes/Admin.php:1922 includes/Admin.php:1923 includes/Admin.php:1924
+msgid ":"
+msgstr ""
+
+#: includes/Admin.php:1922
+msgid ""
+"Render ads with other page content. Not usually compatible with page caching "
+"and some targeting settings."
+msgstr ""
+
+#: includes/Admin.php:1923
+msgid ""
+"Client-side if group settings, targeting methods, or other settings are "
+"likely to conflict with page caching. Otherwise, uses server-side."
+msgstr ""
+
+#: includes/Admin.php:1924
+msgid ""
+"Render ads after other page content loads using javascript. Circumvents page "
+"caching and works with all visitor targeting methods."
+msgstr ""
+
+#: includes/Admin.php:1959
+msgid "Display ad label above ads or groups"
+msgstr ""
+
+#: includes/Admin.php:1963
+msgid "Advertisement"
+msgstr ""
+
+#: includes/Admin.php:1975
+msgid ""
+"Using a unique prefix may help circumvent ad blockers. Recommended length is "
+"5-7 characters and it should contain only alpha letters."
+msgstr ""
+
+#: includes/Admin.php:1988
+msgid "Show loading animation before ads display"
+msgstr ""
+
+#: includes/Admin.php:1989
+msgid ""
+"Only applies to ads and groups loaded client-side, and only to the first ad "
+"on the page."
+msgstr ""
+
+#: includes/Admin.php:2001
+msgid "Disable onboarding message and help links"
+msgstr ""
+
+#: includes/Admin.php:2013
+msgid "Disable message that appears after new ad is published"
+msgstr ""
+
+#: includes/Admin.php:2025
+msgid "Disable documentation links throughout plugin"
+msgstr ""
+
+#: includes/Admin.php:2047
+msgid "Virtual ads.txt is disabled due to incompatibility with your site."
+msgstr ""
+
+#: includes/Admin.php:2053
+msgid ""
+"A physical ads.txt or one generated by another plugin already exists. We "
+"suggest disabling this setting or removing the other ads.txt."
+msgstr ""
+
+#: includes/Admin.php:2059
+msgid "Do not generate a virtual ads.txt"
+msgstr ""
+
+#: includes/Admin.php:2074
+msgid ""
+"One record per line. AdSense is automatically included if publisher ID is "
+"set. Add additional records here."
+msgstr ""
+
+#. translators: %1$s: anchor tag with URL, %2$s text representation of URL, %3$s: close anchor tag
+#: includes/Admin.php:2092
+#, php-format
+msgid "You can preview your ads.txt at %1$s%2$s%3$s"
+msgstr ""
+
+#: includes/Admin.php:2105
+msgid "Open links in a new window"
+msgstr ""
+
+#: includes/Admin.php:2135
+msgid "Include responsive styles for images in ads"
+msgstr ""
+
+#. translators: %1$s: CSS 'auto' code, %2$s, CSS '100%' code
+#: includes/Admin.php:2138
+#, php-format
+msgid ""
+"Images will have max-width set to %1$s and height set to %2$s. Theme styles "
+"may override this setting."
+msgstr ""
+
+#: includes/Admin.php:2163
+msgid ""
+"Disable all front-end plugin stylesheets (some ads may not display correctly)"
+msgstr ""
+
+#: includes/Admin.php:2175
+msgid "Hide ads for suspected bots - use with caution"
+msgstr ""
+
+#: includes/Admin.php:2188
+msgid "Disable all ads for everyone"
+msgstr ""
+
+#: includes/Admin.php:2212
+msgid "Allow editors to manage Ad Commander"
+msgstr ""
+
+#: includes/Admin.php:2213
+msgid ""
+"Only administrators - or those with manage_options capability - will have "
+"access to settings."
+msgstr ""
+
+#: includes/Admin.php:2225
+msgid "Allow unfiltered HTML by administrators and editors"
+msgstr ""
+
+#: includes/Admin.php:2226
+msgid ""
+"By default, only Super Admins can add unfiltered HTML in a multisite "
+"installation."
+msgstr ""
+
+#. translators: %1$s: open span tag with class; %2$s close span tag
+#: includes/Admin.php:2239
+#, php-format
+msgid ""
+"%1$sDANGER:%2$s Delete all plugin data (ads, groups, stats, options, etc) "
+"when plugin deactivated"
+msgstr ""
+
+#: includes/Admin.php:2251
+msgid "Disable impression tracking for all ads"
+msgstr ""
+
+#: includes/Admin.php:2263
+msgid "Disable click tracking for all ads"
+msgstr ""
+
+#: includes/Admin.php:2275
+msgid "Enable local tracking"
+msgstr ""
+
+#: includes/Admin.php:2277
+msgid ""
+"Local tracking is required for Ad Commander reports and to expire ads at "
+"maximum impressions or clicks. If not using this features, disabling may "
+"increase performance."
+msgstr ""
+
+#: includes/Admin.php:2288
+msgid "Enable Google Analytics tracking"
+msgstr ""
+
+#: includes/Admin.php:2302
+msgid ""
+"GA tracking will send events for impression and click to Google Analytics."
+msgstr ""
+
+#. translators: %1$s: sample Google Analytics ID
+#: includes/Admin.php:2315
+#, php-format
+msgid ""
+"One or more GA4 property IDs where clicks and impressions should be sent. "
+"Comma separated. Example: %1$s"
+msgstr ""
+
+#: includes/Admin.php:2326
+msgid "Tell Google Ananlytics to anonymize IPs"
+msgstr ""
+
+#: includes/Admin.php:2337
+msgid "Disable AMP analytics"
+msgstr ""
+
+#: includes/Admin.php:2338
+msgid "Used for GA impression tracking of AMP sites."
+msgstr ""
+
+#: includes/Admin.php:2349
+msgid "Disable AMP pixel"
+msgstr ""
+
+#: includes/Admin.php:2350
+msgid "Used for local impression tracking of AMP sites."
+msgstr ""
+
+#: includes/Admin.php:2353
+msgid "AMP pixel requires your site to use HTTPS."
+msgstr ""
+
+#: includes/Admin.php:2366
+msgid "Disable tracking for bots - use with caution"
+msgstr ""
+
+#: includes/Admin.php:2389
+msgid "Connect AdSense"
+msgstr ""
+
+#: includes/Admin.php:2391
+msgid "Revoke access"
+msgstr ""
+
+#: includes/Admin.php:2398
+msgid "Publisher ID"
+msgstr ""
+
+#: includes/Admin.php:2402
+msgid "Or enter your publisher ID manually for limited functionality."
+msgstr ""
+
+#: includes/Admin.php:2413
+msgid "View account alerts"
+msgstr ""
+
+#: includes/Admin.php:2418
+msgctxt "After publisher ID label"
+msgid ":"
+msgstr ""
+
+#: includes/Admin.php:2434
+msgid ""
+"Your publisher ID appears to be an invalid format. It should start with pub-"
+msgstr ""
+
+#: includes/Admin.php:2495
+msgid ""
+"Insert AdSense script in head on every page (for auto ads and site "
+"verification)"
+msgstr ""
+
+#: includes/Admin.php:2511
+msgid "Insert AMP auto ads code on every page"
+msgstr ""
+
+#: includes/Admin.php:2518 includes/AdminAdPostMeta.php:760
+msgid "No AMP plugin found. View documentation for more information."
+msgstr ""
+
+#: includes/Admin.php:2535
+msgid "Disable AdSense connected account alerts in the Ad Commander Dashboard"
+msgstr ""
+
+#: includes/Admin.php:2548
+msgid "Require consent before displaying ads."
+msgstr ""
+
+#: includes/Admin.php:2553
+msgid ""
+"If enabled, this setting can be overridden by individual ads, groups, or "
+"placements."
+msgstr ""
+
+#. translators: %1$s: sample Google Analytics ID
+#: includes/Admin.php:2567
+msgid "The name of the cookie that indicates a user has given consent."
+msgstr ""
+
+#. translators: %1$s: sample Google Analytics ID
+#: includes/Admin.php:2580
+msgid "The cookie should have this value. Leave blank to accept any value."
+msgstr ""
+
+#: includes/Admin.php:2590
+msgid "Equals"
+msgstr ""
+
+#: includes/Admin.php:2591
+msgid "Contains"
+msgstr ""
+
+#: includes/Admin.php:2592
+msgid "Equals (case-insensitive)"
+msgstr ""
+
+#: includes/Admin.php:2593
+msgid "Contains (case-insensitive)"
+msgstr ""
+
+#: includes/Admin.php:2605
+msgid ""
+"The manner in which to check the cookie value. If the cookie value above is "
+"blank, this setting is ignored and Ad Commander will check if the cookie "
+"exists."
+msgstr ""
+
+#: includes/Admin.php:2660
+msgid "Priority support and updates"
+msgstr ""
+
+#: includes/Admin.php:2661
+msgid "Client-side and smart rendering modes (cache busting)"
+msgstr ""
+
+#: includes/Admin.php:2662
+msgid "Google Analytics tracking (GA4)"
+msgstr ""
+
+#: includes/Admin.php:2663
+msgid "Visitor targeting options"
+msgstr ""
+
+#: includes/Admin.php:2664
+msgid "Geotargeting with MaxMind"
+msgstr ""
+
+#: includes/Admin.php:2665
+msgid "Group and placement targeting options"
+msgstr ""
+
+#: includes/Admin.php:2666
+msgid "Advanced automatic placement positions"
+msgstr ""
+
+#: includes/Admin.php:2667
+msgid "Weighted and evenly distributed ads"
+msgstr ""
+
+#: includes/Admin.php:2668
+msgid "Advanced group layouts"
+msgstr ""
+
+#: includes/Admin.php:2669
+msgid "Expire ads by date or stats"
+msgstr ""
+
+#: includes/Admin.php:2670
+msgid "Increased AdSense API calls"
+msgstr ""
+
+#: includes/Admin.php:2671
+msgid "...and more"
+msgstr ""
+
+#: includes/Admin.php:2692
+msgid "Export Ad Commander ads"
+msgstr ""
+
+#: includes/Admin.php:2693
+msgid "Import Ad Commander ads from another site"
+msgstr ""
+
+#: includes/Admin.php:2694
+msgid "Reset all ad statistics"
+msgstr ""
+
+#: includes/Admin.php:2695
+msgid "Reset single ad statistics"
+msgstr ""
+
+#: includes/Admin.php:2696
+msgid "Purge rogue statistics (deleted ads)"
+msgstr ""
+
+#: includes/Admin.php:2697
+msgid "Available in the WordPress plugin directory"
+msgstr ""
+
+#: includes/Admin.php:2733 includes/AdminGroupTermMeta.php:424
+#: includes/AdminReports.php:255 includes/PostTypes.php:74
+msgid "Ad"
+msgstr ""
+
+#: includes/Admin.php:2733
+msgid "Placement"
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:100
+msgid ""
+"Your user does not have permission to use unfiltered HTML. Scripts and some "
+"other HTML will be stripped from Text/Code ads, Rich Content ads, and custom "
+"code."
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:140
+msgid "This ad will not display because it does not have an ad type."
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:142
+msgid "This ad will not display because it does not yet have an image."
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:145
+msgid "This ad will not display because it does not yet have any content."
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:147
+msgid ""
+"This ad will not display because it is missing some AdSense data. Please "
+"check your settings."
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:219
+msgid "Name"
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:220
+msgid "Slot ID"
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:221
+msgid "Format"
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:222
+msgid "Size"
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:225
+msgid "UNSUPPORTED"
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:226
+msgid "Hide inactive"
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:227
+msgid "Hide unsupported"
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:228
+msgid "Refresh ads"
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:229
+msgid "Total ads:"
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:287
+msgid "Ad Settings & Usage"
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:314
+msgid "Text or Code Ad"
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:315
+msgid "Rich Content Ad"
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:316
+msgid "AdSense Ad"
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:321
+msgid "Layout"
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:331
+msgid "Expirations"
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:341
+msgid "Advanced"
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:484
+msgid ""
+"Apply layout settings to an individual ad. If this ad is used in a group, "
+"some of these settings will be ignored in favor of the group's layout."
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:521
+msgid ""
+"AdSense is not yet configured. Connect your site to AdSense or specify a "
+"publisher ID to build ads manually. Alternatively, you can paste your ad "
+"code below. Settings must be configured by an administrator."
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:524 includes/AdminOnboarding.php:331
+msgid "Configure AdSense settings"
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:589 includes/AdminAdPostMeta.php:591
+msgid "Load from account"
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:595 includes/AdminAdPostMeta.php:597
+msgid "Manual"
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:600
+msgid "Paste code"
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:605
+msgid "AdSense Ad Mode"
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:617
+msgid "Data for this ad format is not provided by the Google AdSense API."
+msgstr ""
+
+#. translators: %1$s open anchor tag, %2$s close anchor tag, %3$s open anchor tag, %4$s close anchor tag
+#: includes/AdminAdPostMeta.php:622
+#, php-format
+msgid ""
+"To insert this ad, switch to %1$scode%2$s or %3$smanual%4$s ad mode. Add the "
+"required code or data from %5$syour AdSense account.%6$s"
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:628
+msgid "Inactive ad"
+msgstr ""
+
+#. translators: %1$s open anchor tag, %2$s close anchor tag
+#: includes/AdminAdPostMeta.php:633
+#, php-format
+msgid ""
+"This ad is inactive. To display this ad, login to your %1$syour AdSense "
+"account%2$s and activate it."
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:640
+msgid "AdSense API quota reached"
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:641
+msgid ""
+"You have reached the 24-hour AdSense API quota and can no longer modify ads "
+"using direct integration. This does not prevent ads displaying on your site."
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:645
+msgid ""
+"API requests are limited by Google, so we must limit plugin users' requests. "
+"Increase your limit by becoming a Pro user."
+msgstr ""
+
+#. translators: This text is appended to features that are only included in the pro version. Leading spacing and hyphen (or equivalent) should be included.
+#: includes/AdminAdPostMeta.php:647 includes/ProBridge.php:209
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:650
+msgid ""
+"API requests are limited by Google, so we must limit plugin users' requests."
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:662
+msgid "Ad type"
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:668
+msgid "Ad Slot ID"
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:675
+msgid "Full width responsive"
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:688 includes/AdminAdPostMeta.php:822
+msgid "Width"
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:693 includes/AdminAdPostMeta.php:827
+msgid "Height"
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:699
+msgid "Leave dimensions blank to create a responsive multiplex ad."
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:704
+msgid "UI Type"
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:717
+msgid "Columns"
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:721
+msgid "Rows"
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:727
+msgid "Layout key"
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:734
+msgid "Ad code"
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:743
+msgid "AMP Ad"
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:790
+msgid "No publisher ID set for this ad."
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:791
+msgid "Publisher ID: "
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:794
+msgid ""
+"The publisher ID for this ad does not match the publisher ID from settings. "
+"If this is unintentional, delete this ad and create a new one or update your "
+"publisher ID in settings."
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:809
+msgid "Only display this ad if certain conditions are met."
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:832
+msgid "Theme styles may override these settings."
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:842
+msgid ""
+"Javascript and CSS allowed (must include style or script tags). <em>Use with "
+"caution</em> and test your ad display and tracking."
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:846
+msgid "Custom Code - Before Ad"
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:850
+msgid "Custom Code - After Ad"
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:863 includes/AdminPlacementPostMeta.php:389
+msgid "Disable Consent Requirement"
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:865
+msgid "Ignore site-wide setting and disable consent requirement for this ad."
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:866
+msgid ""
+"Note that this setting will be ignored if ad is used in a group or "
+"placement. You must disable consent for the entire group or placement "
+"instead."
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:880 includes/AdminGroupTermMeta.php:751
+msgid "Float"
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:885
+msgid "Clear float"
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:887
+msgid "Attempt to prevent text from wrapping around floated ad"
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:901 includes/AdminGroupTermMeta.php:790
+msgid "Custom Classes"
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:916
+msgid "Margin Top"
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:923
+msgid "Margin Right"
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:930
+msgid "Margin Bottom"
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:937
+msgid "Margin Left"
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:957
+msgid ""
+"Expired ads will move to Draft status. Leave values blank to disable a "
+"feature. To schedule a start date, edit this Ad post's Publish date and time "
+"in the Publish settings."
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:961
+msgid "Expire ad at the below date and time. Both must be specified."
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:966
+msgid "Expiration Date"
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:980
+msgid "Expiration Time"
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:1010
+msgid "Local click tracking is disabled."
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:1015
+msgid "Local impression tracking is disabled."
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:1021
+msgid "Local click tracking is disabled for this ad."
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:1028
+msgid "Local impression tracking is disabled for this ad"
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:1051
+msgid "Expire ad if it meets or exceeds either of these statistics."
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:1056
+msgid "Maximum Clicks"
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:1062
+msgid "Maximum Impressions"
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:1094
+msgid "Ad Type"
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:1100
+msgid "Select an ad type"
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:1118 includes/AdminAdPostMeta.php:1715
+#: includes/AdminGroupTermMeta.php:480 includes/AdminGroupTermMeta.php:932
+msgid "Shortcode"
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:1133 includes/AdminGroupTermMeta.php:495
+msgid "Template function"
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:1160
+msgid "Disable ad tracking"
+msgstr ""
+
+#. translators: %1$s: anchor tag with URL, %2$s: close anchor tag
+#: includes/AdminAdPostMeta.php:1165
+#, php-format
+msgid "There are currently no %1$s tracking methods enabled.%2$s"
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:1170
+msgid "Impression tracking"
+msgstr ""
+
+#. translators: %1$s: %2$s anchor tag with URL, %2$s: close anchor tag
+#: includes/AdminAdPostMeta.php:1179
+#, php-format
+msgid "Tracking currently disabled %1$sfor all ads%2$s."
+msgstr ""
+
+#. translators: %1$s: %2$s anchor tag with URL, %2$s: close anchor tag, starts with a space because tracking method previously translated and prepended.
+#: includes/AdminAdPostMeta.php:1182
+#, php-format
+msgid " tracking currently disabled %1$sfor all ads%2$s."
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:1192
+msgid "Do not track clicks for this ad."
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:1198
+msgid "Do not track impressions for this ad."
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:1246
+msgid "Banner Link"
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:1259
+msgid "Open in a new window"
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:1266
+msgid "rel"
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:1266
+msgid "attributes"
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:1270
+msgid "Sponsored"
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:1275
+msgid "Nofollow"
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:1280
+msgid "Noopener"
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:1285
+msgid "Noreferrer"
+msgstr ""
+
+#. translators: %1$s anchor tag, %2$s close anchor tag
+#: includes/AdminAdPostMeta.php:1304
+#, php-format
+msgid ""
+"Paste your entire ad code here. Linebreaks will be removed from output. For "
+"text ads with linebreaks, use the %1$sRich Content Editor%2$s."
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:1347
+msgid "Stats may take a minute to update."
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:1348
+msgid "Impressions:"
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:1352 includes/AdminAdPostMeta.php:1371
+msgid "All time"
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:1353 includes/AdminAdPostMeta.php:1372
+msgid "30 days"
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:1354 includes/AdminAdPostMeta.php:1373
+msgid "7 days"
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:1367
+msgid "Clicks:"
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:1464
+msgid "This ad is ready to be placed on your site."
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:1465
+msgid "Disable this message"
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:1469
+msgid "Place this ad"
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:1471
+msgid "Create automatic placement"
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:1472
+msgid "Manage placements"
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:1475
+msgid "Automatic placement documentation"
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:1476
+msgid "Manual placement documentation"
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:1480
+msgid "Groups"
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:1481
+msgid "Manage groups"
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:1483
+msgid "Groups & ads documentation"
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:1518 includes/AdminAdPostMeta.php:1531
+#: includes/AdminGroupTermMeta.php:526 includes/AdminGroupTermMeta.php:539
+msgid "Copy"
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:1654
+msgid "There is a problem with this ad's settings."
+msgstr ""
+
+#. translators: %d - number of impressoins
+#: includes/AdminAdPostMeta.php:1673
+#, php-format
+msgid "Impressions: %d"
+msgstr ""
+
+#. translators: %d - number of clicks
+#: includes/AdminAdPostMeta.php:1679
+#, php-format
+msgid "Clicks: %d"
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:1713
+msgid "Type"
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:1716 includes/AdminGroupTermMeta.php:933
+msgid "Template Tag"
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:1719
+msgid "Stats"
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:1771
+msgid "All groups"
+msgstr ""
+
+#: includes/AdminAdPostMeta.php:1804
+msgid "All ad types"
+msgstr ""
+
+#: includes/AdminAdsense.php:467 includes/AdminAdsense.php:959
+#: includes/AdminAdsense.php:1209 includes/AdminReports.php:271
+msgid "Security check"
+msgstr ""
+
+#: includes/AdminAdsense.php:973
+msgid "Your publishder ID is invalid."
+msgstr ""
+
+#: includes/AdminAdsense.php:1002
+msgid ""
+"There was an error fetching your ads. This could mean you do not yet have "
+"any AdSense ads, or there is a problem with your account connection."
+msgstr ""
+
+#: includes/AdminAdsense.php:1094
+msgctxt "Reason of the API call error"
+msgid "Reason:"
+msgstr ""
+
+#: includes/AdminAdsense.php:1096
+msgctxt "Error message from Google"
+msgid "Message:"
+msgstr ""
+
+#: includes/AdminAdsense.php:1236
+msgid ""
+"There was an error retrieving this ad. This could mean the ad no longer "
+"exists, there is a problem with your account connection, or we were unable "
+"to connect to the Google AdSense API."
+msgstr ""
+
+#: includes/AdminAdsense.php:1411
+msgid "Your AdSense account has been successfully connected."
+msgstr ""
+
+#: includes/AdminAdsense.php:1426
+msgid "Your AdSense auth code was not found. Please contact support."
+msgstr ""
+
+#: includes/AdminAdsense.php:1441
+msgid ""
+"There was an error connecting your AdSense account. Please make sure the "
+"Google account you are connecting is associated with an AdSense publisher "
+"account. Contact support for help."
+msgstr ""
+
+#: includes/AdminDashboard.php:49 includes/AdminSupport.php:51
+msgid "Ad Commander Add-ons"
+msgstr ""
+
+#: includes/AdminDashboard.php:62
+msgid "Notifications"
+msgstr ""
+
+#: includes/AdminDashboard.php:71
+msgid "Manage your ads, groups and placements"
+msgstr ""
+
+#: includes/AdminDashboard.php:78
+msgid "Configure Ad Commander"
+msgstr ""
+
+#: includes/AdminDashboard.php:80
+msgid "Configure Settings"
+msgstr ""
+
+#: includes/AdminDashboard.php:83
+msgid "Manage ads"
+msgstr ""
+
+#: includes/AdminDashboard.php:92
+msgid "Support resources"
+msgstr ""
+
+#. translators: %1$s: anchor tag with URL, %2$s: close anchor tag
+#: includes/AdminDashboard.php:94
+#, php-format
+msgid "%1$sVisit the support section%2$s for help."
+msgstr ""
+
+#: includes/AdminDashboard.php:97 includes/AdminSupport.php:94
+msgid "Join our newsletter"
+msgstr ""
+
+#. translators: %1$s: anchor tag with URL, %2$s: close anchor tag
+#: includes/AdminDashboard.php:99
+#, php-format
+msgid ""
+"Get news about important plugin updates by %1$sjoining our newsletter%2$s."
+msgstr ""
+
+#: includes/AdminDashboard.php:102 includes/AdminDashboard.php:106
+msgid "Leave a review"
+msgstr ""
+
+#. translators: %1$s: five star characters
+#: includes/AdminDashboard.php:104
+#, php-format
+msgid ""
+"Your %1$s reviews and bug reports are invaluable to Ad Commander and help us "
+"maintain a free version of this plugin. We appreciate your support!"
+msgstr ""
+
+#: includes/AdminDashboard.php:107 includes/AdminOnboarding.php:279
+msgid "Get support"
+msgstr ""
+
+#: includes/AdminDashboard.php:110
+msgid "Support and updates"
+msgstr ""
+
+#: includes/AdminGroupTermMeta.php:144 includes/AdminGroupTermMeta.php:464
+msgid "Save all settings"
+msgstr ""
+
+#: includes/AdminGroupTermMeta.php:390
+msgid "< Back to Groups"
+msgstr ""
+
+#: includes/AdminGroupTermMeta.php:411
+msgid "Add ad to group:"
+msgstr ""
+
+#: includes/AdminGroupTermMeta.php:412 includes/AdminReports.php:390
+msgid "Search by ad title"
+msgstr ""
+
+#: includes/AdminGroupTermMeta.php:414
+msgid "Ads in this group"
+msgstr ""
+
+#: includes/AdminGroupTermMeta.php:423
+msgid "Weight"
+msgstr ""
+
+#: includes/AdminGroupTermMeta.php:463
+msgid "There are currently no ads in this group."
+msgstr ""
+
+#: includes/AdminGroupTermMeta.php:552
+msgid "Group Preview"
+msgstr ""
+
+#: includes/AdminGroupTermMeta.php:560
+msgid ""
+"Script tags and other unsafe HTML are removed in the admin preview. Ads may "
+"appear differently to visitors due to front-end styles from your theme or "
+"other plugins."
+msgstr ""
+
+#: includes/AdminGroupTermMeta.php:626 includes/AdminGroupTermMeta.php:930
+msgid "Mode"
+msgstr ""
+
+#: includes/AdminGroupTermMeta.php:638
+msgid "columns"
+msgstr ""
+
+#: includes/AdminGroupTermMeta.php:648
+msgid "rows"
+msgstr ""
+
+#: includes/AdminGroupTermMeta.php:657 includes/Group.php:113
+msgid "Grid"
+msgstr ""
+
+#: includes/AdminGroupTermMeta.php:661
+msgid "Number of columns and rows to display in this grid."
+msgstr ""
+
+#: includes/AdminGroupTermMeta.php:669
+msgid "Rotate Interval"
+msgstr ""
+
+#: includes/AdminGroupTermMeta.php:673
+msgid "Rotate ads every X seconds."
+msgstr ""
+
+#: includes/AdminGroupTermMeta.php:681
+msgid "Stop Tracking"
+msgstr ""
+
+#: includes/AdminGroupTermMeta.php:685
+msgid ""
+"Stop tracking impressions after X seconds of rotating. 0 to track until "
+"visitor closes page."
+msgstr ""
+
+#: includes/AdminGroupTermMeta.php:707 includes/AdminGroupTermMeta.php:931
+msgid "Order Method"
+msgstr ""
+
+#: includes/AdminGroupTermMeta.php:725
+msgid "Responsive IMGs"
+msgstr ""
+
+#: includes/AdminGroupTermMeta.php:742
+msgid "Attempt to prevent text from wrapping around floated group"
+msgstr ""
+
+#: includes/AdminGroupTermMeta.php:761
+msgid "top"
+msgstr ""
+
+#: includes/AdminGroupTermMeta.php:762
+msgid "right"
+msgstr ""
+
+#: includes/AdminGroupTermMeta.php:763
+msgid "bottom"
+msgstr ""
+
+#: includes/AdminGroupTermMeta.php:764
+msgid "left"
+msgstr ""
+
+#: includes/AdminGroupTermMeta.php:782
+msgid "Margin"
+msgstr ""
+
+#: includes/AdminGroupTermMeta.php:806
+msgid "Custom Code - Before Ads"
+msgstr ""
+
+#: includes/AdminGroupTermMeta.php:821
+msgid "Custom Code - After Ads"
+msgstr ""
+
+#: includes/AdminGroupTermMeta.php:836
+msgid "Disable Consent"
+msgstr ""
+
+#: includes/AdminGroupTermMeta.php:838
+msgid ""
+"Ignore site-wide setting and disable consent requirement for this group."
+msgstr ""
+
+#: includes/AdminNotifications.php:255
+msgid "Everything looks good! You do not have any notifications at this time."
+msgstr ""
+
+#. translators: %d: The number of hidden notifications
+#: includes/AdminNotifications.php:273
+#, php-format
+msgid "Hidden notifications (%d)"
+msgstr ""
+
+#. translators: %1$s: anchor tag with URL, %2$s: close anchor tag
+#: includes/AdminNotifications.php:283
+#, php-format
+msgid ""
+"If you feel any of these notifications were received in error, please ignore "
+"or %1$scontact support%2$s."
+msgstr ""
+
+#. translators: %1$s: anchor tag with URL, %2$s: close anchor tag
+#: includes/AdminNotifications.php:329
+#, php-format
+msgid ""
+"Your site appears to use page caching and server-side rendering. This can "
+"lead to unexpected behavior. %1$sEdit your rendering settings here.%2$s"
+msgstr ""
+
+#: includes/AdminNotifications.php:330
+msgid "Page caching"
+msgstr ""
+
+#. translators: %1$s: anchor tag with URL, %2$s: close anchor tag
+#: includes/AdminNotifications.php:347
+#, php-format
+msgid ""
+"You are limiting ad display or tracking for bots, while also using server-"
+"side rendering. This can potentially cause problems. %1$sEdit your rendering "
+"settings here.%2$s"
+msgstr ""
+
+#: includes/AdminNotifications.php:348
+msgid "Bot blocking"
+msgstr ""
+
+#. translators: %1$s: anchor tag with URL, %2$s: close anchor tag
+#: includes/AdminNotifications.php:365
+#, php-format
+msgid ""
+"Consent management only partially works with server-side rendering. %1$sEdit "
+"your rendering settings here.%2$s"
+msgstr ""
+
+#: includes/AdminNotifications.php:366
+msgid "Consent required"
+msgstr ""
+
+#: includes/AdminNotifications.php:382
+msgid ""
+"Your site failed to generate CSS for your custom prefix. This is likely due "
+"to permissions in your hosting environment. Your CSS prefix was reset to the "
+"default."
+msgstr ""
+
+#: includes/AdminNotifications.php:383
+msgid "Custom CSS Prefix"
+msgstr ""
+
+#. translators: %1$s AdSense publisher ID.
+#: includes/AdminNotifications.php:407
+#, php-format
+msgid "AdSense Account (%1$s)"
+msgstr ""
+
+#: includes/AdminOnboarding.php:147
+msgid "Demo Ad"
+msgstr ""
+
+#: includes/AdminOnboarding.php:183
+msgid "Demo Group"
+msgstr ""
+
+#: includes/AdminOnboarding.php:281
+msgid "Plugin support"
+msgstr ""
+
+#: includes/AdminOnboarding.php:298
+msgid "Thank you for installing. Let's get started!"
+msgstr ""
+
+#: includes/AdminOnboarding.php:299
+msgid "Dismiss message"
+msgstr ""
+
+#: includes/AdminOnboarding.php:314
+msgid "Getting started"
+msgstr ""
+
+#: includes/AdminOnboarding.php:316
+msgid "Create your first ad"
+msgstr ""
+
+#: includes/AdminOnboarding.php:317
+msgid "Generate a demo ad"
+msgstr ""
+
+#: includes/AdminOnboarding.php:321
+msgid "Configure plugin settings"
+msgstr ""
+
+#: includes/AdminOnboarding.php:322
+msgid "Video: Creating your first ad"
+msgstr ""
+
+#: includes/AdminOnboarding.php:328
+msgid "Configure AdSense"
+msgstr ""
+
+#: includes/AdminOnboarding.php:329
+msgid "Connect AdSense account"
+msgstr ""
+
+#: includes/AdminOnboarding.php:332
+msgid "Video & Documentation: Implementing AdSense"
+msgstr ""
+
+#: includes/AdminOnboarding.php:335
+msgid "Configure plugin"
+msgstr ""
+
+#: includes/AdminOnboarding.php:336
+msgid ""
+"Your account does not have permission to configure site options. Please have "
+"an administrator configure the plugin settings."
+msgstr ""
+
+#: includes/AdminPlacementPostMeta.php:140
+msgid "Placement Display Settings"
+msgstr ""
+
+#: includes/AdminPlacementPostMeta.php:141
+msgid "Placement Groups & Ads"
+msgstr ""
+
+#: includes/AdminPlacementPostMeta.php:142
+msgid "Placement Settings"
+msgstr ""
+
+#: includes/AdminPlacementPostMeta.php:223
+msgid "Placement Position"
+msgstr ""
+
+#: includes/AdminPlacementPostMeta.php:234
+msgid "Disable HTML Wrappers"
+msgstr ""
+
+#: includes/AdminPlacementPostMeta.php:236
+msgid "Disable wrappers around ads and groups."
+msgstr ""
+
+#: includes/AdminPlacementPostMeta.php:237
+msgid ""
+"Recommended for most script placements. Disabling wrappers will break "
+"rotating and grid group layouts."
+msgstr ""
+
+#: includes/AdminPlacementPostMeta.php:242
+msgid "Force server-side rendering"
+msgstr ""
+
+#: includes/AdminPlacementPostMeta.php:244
+msgid ""
+"Ignore global setting and load this placement using server-side rendering."
+msgstr ""
+
+#: includes/AdminPlacementPostMeta.php:245
+msgid ""
+"Visitor targeting and consent management may not work as expected if using "
+"page caching and server-side rendering."
+msgstr ""
+
+#: includes/AdminPlacementPostMeta.php:250
+msgid ""
+"Intended for inserting scripts. All &lt;head&gt; placements are loaded with "
+"server-side rendering and HTML wrappers on ads and groups are disabled. "
+"Visitor targeting and consent management may not work as expected if using "
+"page caching."
+msgstr ""
+
+#: includes/AdminPlacementPostMeta.php:255
+msgid "Before Post #"
+msgstr ""
+
+#: includes/AdminPlacementPostMeta.php:265
+msgid "Position in Content"
+msgstr ""
+
+#: includes/AdminPlacementPostMeta.php:283
+msgid ""
+"Ads will display after this percentage of text content. Ads will only inject "
+"after a first-level element or within a Group block."
+msgstr ""
+
+#: includes/AdminPlacementPostMeta.php:288
+msgid ""
+"Popup ads require Ad Commander Pro 1.0.4 or greater to function correctly. "
+"Please update your version of Pro."
+msgstr ""
+
+#: includes/AdminPlacementPostMeta.php:292
+msgid "After # of seconds"
+msgstr ""
+
+#: includes/AdminPlacementPostMeta.php:293
+#, no-php-format
+msgid "After user scrolls % of page"
+msgstr ""
+
+#: includes/AdminPlacementPostMeta.php:295
+msgid "When to display popup"
+msgstr ""
+
+#: includes/AdminPlacementPostMeta.php:300
+msgid "Number of seconds before display"
+msgstr ""
+
+#: includes/AdminPlacementPostMeta.php:310
+msgid "Scroll percentage before display"
+msgstr ""
+
+#: includes/AdminPlacementPostMeta.php:321
+msgid "Popup ad position"
+msgstr ""
+
+#: includes/AdminPlacementPostMeta.php:338
+msgid "Popup overlay background"
+msgstr ""
+
+#: includes/AdminPlacementPostMeta.php:355
+msgid "Hide close button"
+msgstr ""
+
+#: includes/AdminPlacementPostMeta.php:357
+msgid "Hide the close button."
+msgstr ""
+
+#: includes/AdminPlacementPostMeta.php:358
+msgid "The overlay will still be closable by clicking outside the ad."
+msgstr ""
+
+#: includes/AdminPlacementPostMeta.php:363
+msgid "Auto close after number of seconds"
+msgstr ""
+
+#: includes/AdminPlacementPostMeta.php:369
+msgid "Set to 0 to disable auto close."
+msgstr ""
+
+#: includes/AdminPlacementPostMeta.php:378
+msgid "After Paragraph Number"
+msgstr ""
+
+#: includes/AdminPlacementPostMeta.php:385
+msgid ""
+"Ads will inject after this paragraph number. They will inject into the "
+"parent of the paragraph."
+msgstr ""
+
+#: includes/AdminPlacementPostMeta.php:391
+msgid ""
+"Ignore site-wide setting and disable consent requirement for this placement."
+msgstr ""
+
+#: includes/AdminPlacementPostMeta.php:412
+msgid "Post Types"
+msgstr ""
+
+#: includes/AdminPlacementPostMeta.php:415
+msgid "No public post types currently available."
+msgstr ""
+
+#: includes/AdminPlacementPostMeta.php:429
+#: includes/AdminPlacementPostMeta.php:602
+msgid "Placement Order"
+msgstr ""
+
+#: includes/AdminPlacementPostMeta.php:439
+msgid ""
+"If you have multiple Placements displaying in the same position, the "
+"Placements will be ordered by this value."
+msgstr ""
+
+#: includes/AdminPlacementPostMeta.php:469 includes/Block.php:47
+#: includes/Util.php:504
+msgid "Scheduled"
+msgstr ""
+
+#: includes/AdminPlacementPostMeta.php:486
+#: includes/AdminPlacementPostMeta.php:501
+msgid "Select a group or an ad"
+msgstr ""
+
+#: includes/AdminPlacementPostMeta.php:508
+msgid ""
+"Add groups and ads to this placement. These items will be inserted in the "
+"order below."
+msgstr ""
+
+#: includes/AdminPlacementPostMeta.php:509
+msgid "Placement Items"
+msgstr ""
+
+#: includes/AdminPlacementPostMeta.php:520
+msgid "Only display this placement if certain conditions are met."
+msgstr ""
+
+#: includes/AdminPlacementPostMeta.php:600
+msgid "Position"
+msgstr ""
+
+#: includes/AdminPlacementPostMeta.php:601
+msgid "Items"
+msgstr ""
+
+#: includes/AdminPlacementPostMeta.php:646
+msgid "All placement positions"
+msgstr ""
+
+#: includes/AdminReports.php:163
+msgid "Chart:"
+msgstr ""
+
+#: includes/AdminReports.php:212
+msgid "By date"
+msgstr ""
+
+#: includes/AdminReports.php:213 includes/AdminReports.php:233
+msgid "There is no data to display."
+msgstr ""
+
+#. translators: %1$s: anchor tag with URL, %2$s the day of the week from settings, %3$s: close anchor tag
+#: includes/AdminReports.php:218
+#, php-format
+msgid "Week begins on %1$s%2$s%3$s"
+msgstr ""
+
+#: includes/AdminReports.php:232
+msgid "By ad"
+msgstr ""
+
+#: includes/AdminReports.php:243 includes/AdminReports.php:539
+msgid "Hour"
+msgstr ""
+
+#: includes/AdminReports.php:243
+msgid "Date"
+msgstr ""
+
+#: includes/AdminReports.php:244 includes/AdminReports.php:256
+msgid "Impressions"
+msgstr ""
+
+#: includes/AdminReports.php:245 includes/AdminReports.php:257
+msgid "Clicks"
+msgstr ""
+
+#: includes/AdminReports.php:246 includes/AdminReports.php:258
+msgid "CTR"
+msgstr ""
+
+#: includes/AdminReports.php:335
+msgid "Period"
+msgstr ""
+
+#: includes/AdminReports.php:341
+msgid "Group By"
+msgstr ""
+
+#: includes/AdminReports.php:346
+msgid "Refresh Data"
+msgstr ""
+
+#: includes/AdminReports.php:352
+msgid "Start Date"
+msgstr ""
+
+#: includes/AdminReports.php:366
+msgid "End Date"
+msgstr ""
+
+#: includes/AdminReports.php:383
+msgid "Filter By Ads"
+msgstr ""
+
+#: includes/AdminReports.php:423
+msgid "Some stats may take a minute to update."
+msgstr ""
+
+#: includes/AdminReports.php:464
+msgid "Today"
+msgstr ""
+
+#: includes/AdminReports.php:468
+msgid "Yesterday"
+msgstr ""
+
+#: includes/AdminReports.php:472
+msgid "This Week"
+msgstr ""
+
+#: includes/AdminReports.php:476
+msgid "This Month"
+msgstr ""
+
+#: includes/AdminReports.php:480
+msgid "This Year"
+msgstr ""
+
+#: includes/AdminReports.php:484
+msgid "Last Week"
+msgstr ""
+
+#: includes/AdminReports.php:488
+msgid "Last Month"
+msgstr ""
+
+#: includes/AdminReports.php:492
+msgid "Last Year"
+msgstr ""
+
+#: includes/AdminReports.php:496
+msgid "Past 7 days"
+msgstr ""
+
+#: includes/AdminReports.php:500
+msgid "Past 14 days"
+msgstr ""
+
+#: includes/AdminReports.php:504
+msgid "Past 30 days"
+msgstr ""
+
+#: includes/AdminReports.php:508
+msgid "Past 365 days"
+msgstr ""
+
+#: includes/AdminReports.php:512
+msgid "Custom"
+msgstr ""
+
+#: includes/AdminReports.php:543
+msgid "Day"
+msgstr ""
+
+#: includes/AdminReports.php:547
+msgid "Week"
+msgstr ""
+
+#: includes/AdminReports.php:551
+msgid "Month"
+msgstr ""
+
+#: includes/AdminReports.php:956
+msgid "There was an error processing your start and end dates."
+msgstr ""
+
+#: includes/AdminReports.php:960
+msgid "The selected start date is before the end date."
+msgstr ""
+
+#. translators: %d: Ad id
+#: includes/AdminReports.php:1039
+#, php-format
+msgid "Ad not found (ID: %d)"
+msgstr ""
+
+#: includes/AdminSupport.php:42
+msgid "News and updates"
+msgstr ""
+
+#: includes/AdminSupport.php:44
+msgid "Manuals and forums"
+msgstr ""
+
+#: includes/AdminSupport.php:45
+msgid "Priority support"
+msgstr ""
+
+#: includes/AdminSupport.php:61
+msgid ""
+"Ad Commander is a new plugin, and we appreciate you reporting bugs and "
+"requesting features. Please visit the following resources to do so. Thank "
+"you for your support!"
+msgstr ""
+
+#: includes/AdminSupport.php:63
+msgid "Manuals and knowledgebase"
+msgstr ""
+
+#: includes/AdminSupport.php:64
+msgid "Directions and answers to frequently asked questions."
+msgstr ""
+
+#: includes/AdminSupport.php:64
+msgid "Visit knowledgebase >"
+msgstr ""
+
+#: includes/AdminSupport.php:65
+msgid "Public support forums"
+msgstr ""
+
+#: includes/AdminSupport.php:66
+msgid ""
+"WordPress.org support forum for reporting a bug or requesting a feature."
+msgstr ""
+
+#: includes/AdminSupport.php:66
+msgid "Visit forums >"
+msgstr ""
+
+#: includes/AdminSupport.php:67
+msgid "Report security issue"
+msgstr ""
+
+#: includes/AdminSupport.php:68
+msgid "Discreetly report possible security issues with Ad Commander."
+msgstr ""
+
+#: includes/AdminSupport.php:68
+msgid "Report problem >"
+msgstr ""
+
+#: includes/AdminSupport.php:77
+msgid "Support tickets"
+msgstr ""
+
+#: includes/AdminSupport.php:78
+msgid ""
+"Email support and support for Ad Commander Pro is available through our "
+"ticket system."
+msgstr ""
+
+#: includes/AdminSupport.php:79
+msgid "Open a ticket"
+msgstr ""
+
+#: includes/AdminSupport.php:80
+msgid "Login to your Pro account to submit a ticket. Not yet a Pro user?"
+msgstr ""
+
+#: includes/AdminSupport.php:80
+msgid "Learn more >"
+msgstr ""
+
+#: includes/AdminSupport.php:91
+msgid "Newsletter signup"
+msgstr ""
+
+#: includes/AdminSupport.php:91
+msgid ""
+"Sign up for our newsletter to receive Ad Commander news, announcements, and "
+"feature updates."
+msgstr ""
+
+#: includes/AdminTargeting.php:297
+msgid "page id or title"
+msgstr ""
+
+#: includes/AdminTargeting.php:306
+msgid "No items found"
+msgstr ""
+
+#: includes/AdminTargeting.php:444
+msgid "Content Conditions"
+msgstr ""
+
+#: includes/AdminTargeting.php:448
+msgid "Visitor Conditions"
+msgstr ""
+
+#: includes/AdminTargeting.php:453
+msgid "Max Placement Impressions"
+msgstr ""
+
+#: includes/AdminTargeting.php:503 includes/AdminTargeting.php:608
+msgid "Select a target"
+msgstr ""
+
+#: includes/AdminTargeting.php:642
+msgid "Lat/Lng Lookup Tool"
+msgstr ""
+
+#: includes/AdsTxt.php:51
+msgid ""
+"Your site appears to be using a subfolder. Ads.txt must be placed on the "
+"root-level domain."
+msgstr ""
+
+#: includes/AdsTxt.php:61
+msgid ""
+"Your site is using www. It must redirect to your root domain in order to be "
+"crawled. If it does not, we recommend disabling ads.txt."
+msgstr ""
+
+#: includes/AdsTxt.php:70
+msgid ""
+"Your site appears to be using a subdomain. Ads.txt must be placed on the "
+"root-level domain."
+msgstr ""
+
+#: includes/Doc.php:60
+msgid "Help"
+msgstr ""
+
+#: includes/Doc.php:63
+msgid "Read documentation"
+msgstr ""
+
+#: includes/Duplicate.php:54 includes/Duplicate.php:71
+msgid "Duplicate"
+msgstr ""
+
+#: includes/Duplicate.php:183 includes/Duplicate.php:357
+msgid "(copy)"
+msgstr ""
+
+#: includes/Geo.php:18 includes/Geo.php:295
+msgid "United States"
+msgstr ""
+
+#: includes/Geo.php:19 includes/Geo.php:293
+msgid "United Kingdom"
+msgstr ""
+
+#: includes/Geo.php:20
+msgid "European Union"
+msgstr ""
+
+#: includes/Geo.php:36
+msgid "North America"
+msgstr ""
+
+#: includes/Geo.php:37
+msgid "South America"
+msgstr ""
+
+#: includes/Geo.php:38
+msgid "Europe"
+msgstr ""
+
+#: includes/Geo.php:39
+msgid "Africa"
+msgstr ""
+
+#: includes/Geo.php:40
+msgid "Asia"
+msgstr ""
+
+#: includes/Geo.php:41
+msgid "Oceania"
+msgstr ""
+
+#: includes/Geo.php:60
+msgid "Afghanistan"
+msgstr ""
+
+#: includes/Geo.php:61
+msgid "Albania"
+msgstr ""
+
+#: includes/Geo.php:62
+msgid "Algeria"
+msgstr ""
+
+#: includes/Geo.php:63
+msgid "American Samoa"
+msgstr ""
+
+#: includes/Geo.php:64
+msgid "Andorra"
+msgstr ""
+
+#: includes/Geo.php:65
+msgid "Angola"
+msgstr ""
+
+#: includes/Geo.php:66
+msgid "Anguilla"
+msgstr ""
+
+#: includes/Geo.php:67
+msgid "Antarctica"
+msgstr ""
+
+#: includes/Geo.php:68
+msgid "Antigua and Barbuda"
+msgstr ""
+
+#: includes/Geo.php:69
+msgid "Argentina"
+msgstr ""
+
+#: includes/Geo.php:70
+msgid "Armenia"
+msgstr ""
+
+#: includes/Geo.php:71
+msgid "Aruba"
+msgstr ""
+
+#: includes/Geo.php:72
+msgid "Australia"
+msgstr ""
+
+#: includes/Geo.php:73
+msgid "Austria"
+msgstr ""
+
+#: includes/Geo.php:74
+msgid "Azerbaijan"
+msgstr ""
+
+#: includes/Geo.php:75
+msgid "Bahamas"
+msgstr ""
+
+#: includes/Geo.php:76
+msgid "Bahrain"
+msgstr ""
+
+#: includes/Geo.php:77
+msgid "Bangladesh"
+msgstr ""
+
+#: includes/Geo.php:78
+msgid "Barbados"
+msgstr ""
+
+#: includes/Geo.php:79
+msgid "Belarus"
+msgstr ""
+
+#: includes/Geo.php:80
+msgid "Belgium"
+msgstr ""
+
+#: includes/Geo.php:81
+msgid "Belize"
+msgstr ""
+
+#: includes/Geo.php:82
+msgid "Benin"
+msgstr ""
+
+#: includes/Geo.php:83
+msgid "Bermuda"
+msgstr ""
+
+#: includes/Geo.php:84
+msgid "Bhutan"
+msgstr ""
+
+#: includes/Geo.php:85
+msgid "Bolivia (Plurinational State of)"
+msgstr ""
+
+#: includes/Geo.php:86
+msgid "Bonaire, Sint Eustatius and Saba"
+msgstr ""
+
+#: includes/Geo.php:87
+msgid "Bosnia and Herzegovina"
+msgstr ""
+
+#: includes/Geo.php:88
+msgid "Botswana"
+msgstr ""
+
+#: includes/Geo.php:89
+msgid "Bouvet Island"
+msgstr ""
+
+#: includes/Geo.php:90
+msgid "Brazil"
+msgstr ""
+
+#: includes/Geo.php:91
+msgid "British Indian Ocean Territory"
+msgstr ""
+
+#: includes/Geo.php:92
+msgid "Brunei Darussalam"
+msgstr ""
+
+#: includes/Geo.php:93
+msgid "Bulgaria"
+msgstr ""
+
+#: includes/Geo.php:94
+msgid "Burkina Faso"
+msgstr ""
+
+#: includes/Geo.php:95
+msgid "Burundi"
+msgstr ""
+
+#: includes/Geo.php:96
+msgid "Cabo Verde"
+msgstr ""
+
+#: includes/Geo.php:97
+msgid "Cambodia"
+msgstr ""
+
+#: includes/Geo.php:98
+msgid "Cameroon"
+msgstr ""
+
+#: includes/Geo.php:99
+msgid "Canada"
+msgstr ""
+
+#: includes/Geo.php:100
+msgid "Cayman Islands"
+msgstr ""
+
+#: includes/Geo.php:101
+msgid "Central African Republic"
+msgstr ""
+
+#: includes/Geo.php:102
+msgid "Chad"
+msgstr ""
+
+#: includes/Geo.php:103
+msgid "Chile"
+msgstr ""
+
+#: includes/Geo.php:104
+msgid "China"
+msgstr ""
+
+#: includes/Geo.php:105
+msgid "Christmas Island"
+msgstr ""
+
+#: includes/Geo.php:106
+msgid "Cocos (Keeling) Islands"
+msgstr ""
+
+#: includes/Geo.php:107
+msgid "Colombia"
+msgstr ""
+
+#: includes/Geo.php:108
+msgid "Comoros"
+msgstr ""
+
+#: includes/Geo.php:109
+msgid "Congo (the Democratic Republic of the)"
+msgstr ""
+
+#: includes/Geo.php:110
+msgid "Congo"
+msgstr ""
+
+#: includes/Geo.php:111
+msgid "Cook Islands"
+msgstr ""
+
+#: includes/Geo.php:112
+msgid "Costa Rica"
+msgstr ""
+
+#: includes/Geo.php:113
+msgid "Croatia"
+msgstr ""
+
+#: includes/Geo.php:114
+msgid "Cuba"
+msgstr ""
+
+#: includes/Geo.php:115
+msgid "Curaçao"
+msgstr ""
+
+#: includes/Geo.php:116
+msgid "Cyprus"
+msgstr ""
+
+#: includes/Geo.php:117
+msgid "Czechia"
+msgstr ""
+
+#: includes/Geo.php:118
+msgid "Côte d'Ivoire"
+msgstr ""
+
+#: includes/Geo.php:119
+msgid "Denmark"
+msgstr ""
+
+#: includes/Geo.php:120
+msgid "Djibouti"
+msgstr ""
+
+#: includes/Geo.php:121
+msgid "Dominica"
+msgstr ""
+
+#: includes/Geo.php:122
+msgid "Dominican Republic"
+msgstr ""
+
+#: includes/Geo.php:123
+msgid "Ecuador"
+msgstr ""
+
+#: includes/Geo.php:124
+msgid "Egypt"
+msgstr ""
+
+#: includes/Geo.php:125
+msgid "El Salvador"
+msgstr ""
+
+#: includes/Geo.php:126
+msgid "Equatorial Guinea"
+msgstr ""
+
+#: includes/Geo.php:127
+msgid "Eritrea"
+msgstr ""
+
+#: includes/Geo.php:128
+msgid "Estonia"
+msgstr ""
+
+#: includes/Geo.php:129
+msgid "Eswatini"
+msgstr ""
+
+#: includes/Geo.php:130
+msgid "Ethiopia"
+msgstr ""
+
+#: includes/Geo.php:131
+msgid "Falkland Islands [Malvinas]"
+msgstr ""
+
+#: includes/Geo.php:132
+msgid "Faroe Islands"
+msgstr ""
+
+#: includes/Geo.php:133
+msgid "Fiji"
+msgstr ""
+
+#: includes/Geo.php:134
+msgid "Finland"
+msgstr ""
+
+#: includes/Geo.php:135
+msgid "France"
+msgstr ""
+
+#: includes/Geo.php:136
+msgid "French Guiana"
+msgstr ""
+
+#: includes/Geo.php:137
+msgid "French Polynesia"
+msgstr ""
+
+#: includes/Geo.php:138
+msgid "French Southern Territories"
+msgstr ""
+
+#: includes/Geo.php:139
+msgid "Gabon"
+msgstr ""
+
+#: includes/Geo.php:140
+msgid "Gambia"
+msgstr ""
+
+#: includes/Geo.php:141
+msgid "Georgia"
+msgstr ""
+
+#: includes/Geo.php:142
+msgid "Germany"
+msgstr ""
+
+#: includes/Geo.php:143
+msgid "Ghana"
+msgstr ""
+
+#: includes/Geo.php:144
+msgid "Gibraltar"
+msgstr ""
+
+#: includes/Geo.php:145
+msgid "Greece"
+msgstr ""
+
+#: includes/Geo.php:146
+msgid "Greenland"
+msgstr ""
+
+#: includes/Geo.php:147
+msgid "Grenada"
+msgstr ""
+
+#: includes/Geo.php:148
+msgid "Guadeloupe"
+msgstr ""
+
+#: includes/Geo.php:149
+msgid "Guam"
+msgstr ""
+
+#: includes/Geo.php:150
+msgid "Guatemala"
+msgstr ""
+
+#: includes/Geo.php:151
+msgid "Guernsey"
+msgstr ""
+
+#: includes/Geo.php:152
+msgid "Guinea"
+msgstr ""
+
+#: includes/Geo.php:153
+msgid "Guinea-Bissau"
+msgstr ""
+
+#: includes/Geo.php:154
+msgid "Guyana"
+msgstr ""
+
+#: includes/Geo.php:155
+msgid "Haiti"
+msgstr ""
+
+#: includes/Geo.php:156
+msgid "Heard Island and McDonald Islands"
+msgstr ""
+
+#: includes/Geo.php:157
+msgid "Holy See"
+msgstr ""
+
+#: includes/Geo.php:158
+msgid "Honduras"
+msgstr ""
+
+#: includes/Geo.php:159
+msgid "Hong Kong"
+msgstr ""
+
+#: includes/Geo.php:160
+msgid "Hungary"
+msgstr ""
+
+#: includes/Geo.php:161
+msgid "Iceland"
+msgstr ""
+
+#: includes/Geo.php:162
+msgid "India"
+msgstr ""
+
+#: includes/Geo.php:163
+msgid "Indonesia"
+msgstr ""
+
+#: includes/Geo.php:164
+msgid "Iran (Islamic Republic of)"
+msgstr ""
+
+#: includes/Geo.php:165
+msgid "Iraq"
+msgstr ""
+
+#: includes/Geo.php:166
+msgid "Ireland"
+msgstr ""
+
+#: includes/Geo.php:167
+msgid "Isle of Man"
+msgstr ""
+
+#: includes/Geo.php:168
+msgid "Israel"
+msgstr ""
+
+#: includes/Geo.php:169
+msgid "Italy"
+msgstr ""
+
+#: includes/Geo.php:170
+msgid "Jamaica"
+msgstr ""
+
+#: includes/Geo.php:171
+msgid "Japan"
+msgstr ""
+
+#: includes/Geo.php:172
+msgid "Jersey"
+msgstr ""
+
+#: includes/Geo.php:173
+msgid "Jordan"
+msgstr ""
+
+#: includes/Geo.php:174
+msgid "Kazakhstan"
+msgstr ""
+
+#: includes/Geo.php:175
+msgid "Kenya"
+msgstr ""
+
+#: includes/Geo.php:176
+msgid "Kiribati"
+msgstr ""
+
+#: includes/Geo.php:177
+msgid "Korea (the Democratic People's Republic of)"
+msgstr ""
+
+#: includes/Geo.php:178
+msgid "Korea (the Republic of)"
+msgstr ""
+
+#: includes/Geo.php:179
+msgid "Kuwait"
+msgstr ""
+
+#: includes/Geo.php:180
+msgid "Kyrgyzstan"
+msgstr ""
+
+#: includes/Geo.php:181
+msgid "Lao People's Democratic Republic"
+msgstr ""
+
+#: includes/Geo.php:182
+msgid "Latvia"
+msgstr ""
+
+#: includes/Geo.php:183
+msgid "Lebanon"
+msgstr ""
+
+#: includes/Geo.php:184
+msgid "Lesotho"
+msgstr ""
+
+#: includes/Geo.php:185
+msgid "Liberia"
+msgstr ""
+
+#: includes/Geo.php:186
+msgid "Libya"
+msgstr ""
+
+#: includes/Geo.php:187
+msgid "Liechtenstein"
+msgstr ""
+
+#: includes/Geo.php:188
+msgid "Lithuania"
+msgstr ""
+
+#: includes/Geo.php:189
+msgid "Luxembourg"
+msgstr ""
+
+#: includes/Geo.php:190
+msgid "Macao"
+msgstr ""
+
+#: includes/Geo.php:191
+msgid "Madagascar"
+msgstr ""
+
+#: includes/Geo.php:192
+msgid "Malawi"
+msgstr ""
+
+#: includes/Geo.php:193
+msgid "Malaysia"
+msgstr ""
+
+#: includes/Geo.php:194
+msgid "Maldives"
+msgstr ""
+
+#: includes/Geo.php:195
+msgid "Mali"
+msgstr ""
+
+#: includes/Geo.php:196
+msgid "Malta"
+msgstr ""
+
+#: includes/Geo.php:197
+msgid "Marshall Islands"
+msgstr ""
+
+#: includes/Geo.php:198
+msgid "Martinique"
+msgstr ""
+
+#: includes/Geo.php:199
+msgid "Mauritania"
+msgstr ""
+
+#: includes/Geo.php:200
+msgid "Mauritius"
+msgstr ""
+
+#: includes/Geo.php:201
+msgid "Mayotte"
+msgstr ""
+
+#: includes/Geo.php:202
+msgid "Mexico"
+msgstr ""
+
+#: includes/Geo.php:203
+msgid "Micronesia (Federated States of)"
+msgstr ""
+
+#: includes/Geo.php:204
+msgid "Moldova (the Republic of)"
+msgstr ""
+
+#: includes/Geo.php:205
+msgid "Monaco"
+msgstr ""
+
+#: includes/Geo.php:206
+msgid "Mongolia"
+msgstr ""
+
+#: includes/Geo.php:207
+msgid "Montenegro"
+msgstr ""
+
+#: includes/Geo.php:208
+msgid "Montserrat"
+msgstr ""
+
+#: includes/Geo.php:209
+msgid "Morocco"
+msgstr ""
+
+#: includes/Geo.php:210
+msgid "Mozambique"
+msgstr ""
+
+#: includes/Geo.php:211
+msgid "Myanmar"
+msgstr ""
+
+#: includes/Geo.php:212
+msgid "Namibia"
+msgstr ""
+
+#: includes/Geo.php:213
+msgid "Nauru"
+msgstr ""
+
+#: includes/Geo.php:214
+msgid "Nepal"
+msgstr ""
+
+#: includes/Geo.php:215
+msgid "Netherlands"
+msgstr ""
+
+#: includes/Geo.php:216
+msgid "New Caledonia"
+msgstr ""
+
+#: includes/Geo.php:217
+msgid "New Zealand"
+msgstr ""
+
+#: includes/Geo.php:218
+msgid "Nicaragua"
+msgstr ""
+
+#: includes/Geo.php:219
+msgid "Niger"
+msgstr ""
+
+#: includes/Geo.php:220
+msgid "Nigeria"
+msgstr ""
+
+#: includes/Geo.php:221
+msgid "Niue"
+msgstr ""
+
+#: includes/Geo.php:222
+msgid "Norfolk Island"
+msgstr ""
+
+#: includes/Geo.php:223
+msgid "Northern Mariana Islands"
+msgstr ""
+
+#: includes/Geo.php:224
+msgid "Norway"
+msgstr ""
+
+#: includes/Geo.php:225
+msgid "Oman"
+msgstr ""
+
+#: includes/Geo.php:226
+msgid "Pakistan"
+msgstr ""
+
+#: includes/Geo.php:227
+msgid "Palau"
+msgstr ""
+
+#: includes/Geo.php:228
+msgid "Palestine, State of"
+msgstr ""
+
+#: includes/Geo.php:229
+msgid "Panama"
+msgstr ""
+
+#: includes/Geo.php:230
+msgid "Papua New Guinea"
+msgstr ""
+
+#: includes/Geo.php:231
+msgid "Paraguay"
+msgstr ""
+
+#: includes/Geo.php:232
+msgid "Peru"
+msgstr ""
+
+#: includes/Geo.php:233
+msgid "Philippines"
+msgstr ""
+
+#: includes/Geo.php:234
+msgid "Pitcairn"
+msgstr ""
+
+#: includes/Geo.php:235
+msgid "Poland"
+msgstr ""
+
+#: includes/Geo.php:236
+msgid "Portugal"
+msgstr ""
+
+#: includes/Geo.php:237
+msgid "Puerto Rico"
+msgstr ""
+
+#: includes/Geo.php:238
+msgid "Qatar"
+msgstr ""
+
+#: includes/Geo.php:239
+msgid "Republic of North Macedonia"
+msgstr ""
+
+#: includes/Geo.php:240
+msgid "Romania"
+msgstr ""
+
+#: includes/Geo.php:241
+msgid "Russian Federation"
+msgstr ""
+
+#: includes/Geo.php:242
+msgid "Rwanda"
+msgstr ""
+
+#: includes/Geo.php:243
+msgid "Réunion"
+msgstr ""
+
+#: includes/Geo.php:244
+msgid "Saint Barthélemy"
+msgstr ""
+
+#: includes/Geo.php:245
+msgid "Saint Helena, Ascension and Tristan da Cunha"
+msgstr ""
+
+#: includes/Geo.php:246
+msgid "Saint Kitts and Nevis"
+msgstr ""
+
+#: includes/Geo.php:247
+msgid "Saint Lucia"
+msgstr ""
+
+#: includes/Geo.php:248
+msgid "Saint Martin (French part)"
+msgstr ""
+
+#: includes/Geo.php:249
+msgid "Saint Pierre and Miquelon"
+msgstr ""
+
+#: includes/Geo.php:250
+msgid "Saint Vincent and the Grenadines"
+msgstr ""
+
+#: includes/Geo.php:251
+msgid "Samoa"
+msgstr ""
+
+#: includes/Geo.php:252
+msgid "San Marino"
+msgstr ""
+
+#: includes/Geo.php:253
+msgid "Sao Tome and Principe"
+msgstr ""
+
+#: includes/Geo.php:254
+msgid "Saudi Arabia"
+msgstr ""
+
+#: includes/Geo.php:255
+msgid "Senegal"
+msgstr ""
+
+#: includes/Geo.php:256
+msgid "Serbia"
+msgstr ""
+
+#: includes/Geo.php:257
+msgid "Seychelles"
+msgstr ""
+
+#: includes/Geo.php:258
+msgid "Sierra Leone"
+msgstr ""
+
+#: includes/Geo.php:259
+msgid "Singapore"
+msgstr ""
+
+#: includes/Geo.php:260
+msgid "Sint Maarten (Dutch part)"
+msgstr ""
+
+#: includes/Geo.php:261
+msgid "Slovakia"
+msgstr ""
+
+#: includes/Geo.php:262
+msgid "Slovenia"
+msgstr ""
+
+#: includes/Geo.php:263
+msgid "Solomon Islands"
+msgstr ""
+
+#: includes/Geo.php:264
+msgid "Somalia"
+msgstr ""
+
+#: includes/Geo.php:265
+msgid "South Africa"
+msgstr ""
+
+#: includes/Geo.php:266
+msgid "South Georgia and the South Sandwich Islands"
+msgstr ""
+
+#: includes/Geo.php:267
+msgid "South Sudan"
+msgstr ""
+
+#: includes/Geo.php:268
+msgid "Spain"
+msgstr ""
+
+#: includes/Geo.php:269
+msgid "Sri Lanka"
+msgstr ""
+
+#: includes/Geo.php:270
+msgid "Sudan"
+msgstr ""
+
+#: includes/Geo.php:271
+msgid "Suriname"
+msgstr ""
+
+#: includes/Geo.php:272
+msgid "Svalbard and Jan Mayen"
+msgstr ""
+
+#: includes/Geo.php:273
+msgid "Sweden"
+msgstr ""
+
+#: includes/Geo.php:274
+msgid "Switzerland"
+msgstr ""
+
+#: includes/Geo.php:275
+msgid "Syrian Arab Republic"
+msgstr ""
+
+#: includes/Geo.php:276
+msgid "Taiwan"
+msgstr ""
+
+#: includes/Geo.php:277
+msgid "Tajikistan"
+msgstr ""
+
+#: includes/Geo.php:278
+msgid "Tanzania, United Republic of"
+msgstr ""
+
+#: includes/Geo.php:279
+msgid "Thailand"
+msgstr ""
+
+#: includes/Geo.php:280
+msgid "Timor-Leste"
+msgstr ""
+
+#: includes/Geo.php:281
+msgid "Togo"
+msgstr ""
+
+#: includes/Geo.php:282
+msgid "Tokelau"
+msgstr ""
+
+#: includes/Geo.php:283
+msgid "Tonga"
+msgstr ""
+
+#: includes/Geo.php:284
+msgid "Trinidad and Tobago"
+msgstr ""
+
+#: includes/Geo.php:285
+msgid "Tunisia"
+msgstr ""
+
+#: includes/Geo.php:286
+msgid "Turkey"
+msgstr ""
+
+#: includes/Geo.php:287
+msgid "Turkmenistan"
+msgstr ""
+
+#: includes/Geo.php:288
+msgid "Turks and Caicos Islands"
+msgstr ""
+
+#: includes/Geo.php:289
+msgid "Tuvalu"
+msgstr ""
+
+#: includes/Geo.php:290
+msgid "Uganda"
+msgstr ""
+
+#: includes/Geo.php:291
+msgid "Ukraine"
+msgstr ""
+
+#: includes/Geo.php:292
+msgid "United Arab Emirates"
+msgstr ""
+
+#: includes/Geo.php:294
+msgid "United States Minor Outlying Islands"
+msgstr ""
+
+#: includes/Geo.php:296
+msgid "Uruguay"
+msgstr ""
+
+#: includes/Geo.php:297
+msgid "Uzbekistan"
+msgstr ""
+
+#: includes/Geo.php:298
+msgid "Vanuatu"
+msgstr ""
+
+#: includes/Geo.php:299
+msgid "Venezuela (Bolivarian Republic of)"
+msgstr ""
+
+#: includes/Geo.php:300
+msgid "Viet Nam"
+msgstr ""
+
+#: includes/Geo.php:301
+msgid "Virgin Islands (British)"
+msgstr ""
+
+#: includes/Geo.php:302
+msgid "Virgin Islands (U.S.)"
+msgstr ""
+
+#: includes/Geo.php:303
+msgid "Wallis and Futuna"
+msgstr ""
+
+#: includes/Geo.php:304
+msgid "Western Sahara"
+msgstr ""
+
+#: includes/Geo.php:305
+msgid "Yemen"
+msgstr ""
+
+#: includes/Geo.php:306
+msgid "Zambia"
+msgstr ""
+
+#: includes/Geo.php:307
+msgid "Zimbabwe"
+msgstr ""
+
+#: includes/Geo.php:308
+msgid "Åland Islands"
+msgstr ""
+
+#: includes/Group.php:111
+msgid "Single"
+msgstr ""
+
+#: includes/Group.php:112
+msgid "Rotate"
+msgstr ""
+
+#: includes/PlacementPostMeta.php:104
+msgid "Content: Before Content"
+msgstr ""
+
+#: includes/PlacementPostMeta.php:105
+msgid "Content: After Content"
+msgstr ""
+
+#: includes/PlacementPostMeta.php:106
+msgid "Content: Within Content"
+msgstr ""
+
+#: includes/PlacementPostMeta.php:107
+msgid "Content: After Paragraph #"
+msgstr ""
+
+#: includes/PlacementPostMeta.php:109
+msgid "Post Lists (Blog, Archives, etc)"
+msgstr ""
+
+#: includes/PlacementPostMeta.php:110
+msgid "Popup Overlay"
+msgstr ""
+
+#: includes/PlacementPostMeta.php:111
+msgid "HTML: Before </head>"
+msgstr ""
+
+#: includes/PlacementPostMeta.php:112
+msgid "HTML: Before </body>"
+msgstr ""
+
+#: includes/PlacementPostMeta.php:121
+msgid "Left Top"
+msgstr ""
+
+#: includes/PlacementPostMeta.php:122
+msgid "Center Top"
+msgstr ""
+
+#: includes/PlacementPostMeta.php:123
+msgid "Right Top"
+msgstr ""
+
+#: includes/PlacementPostMeta.php:124
+msgid "Left Center"
+msgstr ""
+
+#: includes/PlacementPostMeta.php:125
+msgid "Center Center"
+msgstr ""
+
+#: includes/PlacementPostMeta.php:126
+msgid "Right Center"
+msgstr ""
+
+#: includes/PlacementPostMeta.php:127
+msgid "Left Bottom"
+msgstr ""
+
+#: includes/PlacementPostMeta.php:128
+msgid "Center Bottom"
+msgstr ""
+
+#: includes/PlacementPostMeta.php:129
+msgid "Right Bottom"
+msgstr ""
+
+#: includes/PostTypes.php:40
+msgid "Ad Archives"
+msgstr ""
+
+#: includes/PostTypes.php:42 includes/PostTypes.php:46
+msgid "New Ad"
+msgstr ""
+
+#: includes/PostTypes.php:44
+msgid "Create New Ad"
+msgstr ""
+
+#: includes/PostTypes.php:45 includes/PostTypes.php:108
+msgid "Add New"
+msgstr ""
+
+#: includes/PostTypes.php:47
+msgid "Edit Ad"
+msgstr ""
+
+#: includes/PostTypes.php:48
+msgid "Update Ad"
+msgstr ""
+
+#: includes/PostTypes.php:49
+msgid "View Ad"
+msgstr ""
+
+#: includes/PostTypes.php:50
+msgid "View Ads"
+msgstr ""
+
+#: includes/PostTypes.php:51
+msgid "Search Ads"
+msgstr ""
+
+#: includes/PostTypes.php:52 includes/PostTypes.php:115
+msgid "Not found"
+msgstr ""
+
+#: includes/PostTypes.php:53 includes/PostTypes.php:116
+msgid "Not found in Trash"
+msgstr ""
+
+#: includes/PostTypes.php:54
+msgid "Banner Image"
+msgstr ""
+
+#: includes/PostTypes.php:55
+msgid "Set banner image"
+msgstr ""
+
+#: includes/PostTypes.php:56
+msgid "Remove banner image"
+msgstr ""
+
+#: includes/PostTypes.php:57
+msgid "Use as banner image"
+msgstr ""
+
+#: includes/PostTypes.php:58
+msgid "Insert into ad"
+msgstr ""
+
+#: includes/PostTypes.php:59
+msgid "Upload this ad"
+msgstr ""
+
+#: includes/PostTypes.php:60
+msgid "Ad list"
+msgstr ""
+
+#: includes/PostTypes.php:61
+msgid "Ads list navigation"
+msgstr ""
+
+#: includes/PostTypes.php:62
+msgid "Filter ads list"
+msgstr ""
+
+#: includes/PostTypes.php:75
+msgid "An individual advertisement"
+msgstr ""
+
+#: includes/PostTypes.php:99
+msgctxt "Post Type General Name"
+msgid "Automatic Placements"
+msgstr ""
+
+#: includes/PostTypes.php:100
+msgctxt "Post Type Singular Name"
+msgid "Automatic Placement"
+msgstr ""
+
+#: includes/PostTypes.php:101 includes/PostTypes.php:102
+msgid "Automatic Placements"
+msgstr ""
+
+#: includes/PostTypes.php:103
+msgid "Automatic Placement Archives"
+msgstr ""
+
+#: includes/PostTypes.php:105 includes/PostTypes.php:109
+msgid "New Placement"
+msgstr ""
+
+#: includes/PostTypes.php:107
+msgid "Create New Placement"
+msgstr ""
+
+#: includes/PostTypes.php:110
+msgid "Edit Placement"
+msgstr ""
+
+#: includes/PostTypes.php:111
+msgid "Update Placement"
+msgstr ""
+
+#: includes/PostTypes.php:112
+msgid "View Placement"
+msgstr ""
+
+#: includes/PostTypes.php:113
+msgid "View Placements"
+msgstr ""
+
+#: includes/PostTypes.php:114
+msgid "Search Placements"
+msgstr ""
+
+#: includes/PostTypes.php:117
+msgid "Insert into placement"
+msgstr ""
+
+#: includes/PostTypes.php:118
+msgid "Upload this placement"
+msgstr ""
+
+#: includes/PostTypes.php:119
+msgid "Placement list"
+msgstr ""
+
+#: includes/PostTypes.php:120
+msgid "Placements list navigation"
+msgstr ""
+
+#: includes/PostTypes.php:121
+msgid "Filter Placements list"
+msgstr ""
+
+#: includes/PostTypes.php:133
+msgid "Automatic Placement"
+msgstr ""
+
+#: includes/PostTypes.php:134
+msgid "Automatic placement of ads or groups."
+msgstr ""
+
+#: includes/PostTypes.php:160
+msgctxt "Taxonomy General Name"
+msgid "Ad Groups"
+msgstr ""
+
+#: includes/PostTypes.php:161
+msgctxt "Taxonomy Singular Name"
+msgid "Ad Group"
+msgstr ""
+
+#: includes/PostTypes.php:162
+msgid "Ad Groups"
+msgstr ""
+
+#: includes/PostTypes.php:163
+msgid "All Groups"
+msgstr ""
+
+#: includes/PostTypes.php:164
+msgid "Parent Group"
+msgstr ""
+
+#: includes/PostTypes.php:165
+msgid "Parent Group:"
+msgstr ""
+
+#: includes/PostTypes.php:166
+msgid "New Group Name"
+msgstr ""
+
+#: includes/PostTypes.php:167
+msgid "Add New Group"
+msgstr ""
+
+#: includes/PostTypes.php:168
+msgid "Edit Group"
+msgstr ""
+
+#: includes/PostTypes.php:169
+msgid "Update Group"
+msgstr ""
+
+#: includes/PostTypes.php:170
+msgid "View Group"
+msgstr ""
+
+#: includes/PostTypes.php:171
+msgid ""
+"Separate groups with commas. Existing groups can be edited under Ad "
+"Commander -> Manage Groups."
+msgstr ""
+
+#: includes/PostTypes.php:172
+msgid "Add or remove items"
+msgstr ""
+
+#: includes/PostTypes.php:173
+msgid "Choose from the most used"
+msgstr ""
+
+#: includes/PostTypes.php:174
+msgid "Popular Groups"
+msgstr ""
+
+#: includes/PostTypes.php:175
+msgid "Search Groups"
+msgstr ""
+
+#: includes/PostTypes.php:176
+msgid "Not Found"
+msgstr ""
+
+#: includes/PostTypes.php:177
+msgid "No items"
+msgstr ""
+
+#: includes/PostTypes.php:178
+msgid "Groups list"
+msgstr ""
+
+#: includes/PostTypes.php:179
+msgid "Groups list navigation"
+msgstr ""
+
+#: includes/PostTypes.php:180
+msgid "The name of your group. Used for admin purposes only."
+msgstr ""
+
+#: includes/PostTypes.php:181
+msgid "&larr; Go to Groups"
+msgstr ""
+
+#. translators: This text is appended to features that are only included in the pro version. Leading spacing and hyphen (or equivalent) should be included.
+#: includes/ProBridge.php:213
+msgid " - Pro Add-on"
+msgstr ""
+
+#: includes/TargetingContent.php:200 includes/TargetingVisitor.php:164
+msgid "true"
+msgstr ""
+
+#: includes/TargetingMeta.php:82
+msgid "AMP (Content served as AMP)"
+msgstr ""
+
+#: includes/TargetingMeta.php:83
+msgid "Archive: Author"
+msgstr ""
+
+#: includes/TargetingMeta.php:84
+msgid "Archive: Category"
+msgstr ""
+
+#: includes/TargetingMeta.php:85
+msgid "Archive: Date"
+msgstr ""
+
+#: includes/TargetingMeta.php:87
+msgid "Archive: Post Type"
+msgstr ""
+
+#: includes/TargetingMeta.php:88
+msgid "Archive: Tag"
+msgstr ""
+
+#: includes/TargetingMeta.php:89
+msgid "Archive: Taxonomy"
+msgstr ""
+
+#: includes/TargetingMeta.php:90
+msgid "Author"
+msgstr ""
+
+#: includes/TargetingMeta.php:91
+msgid "Category"
+msgstr ""
+
+#: includes/TargetingMeta.php:92
+msgid "Content Age (Days)"
+msgstr ""
+
+#: includes/TargetingMeta.php:94
+msgid "Page Template"
+msgstr ""
+
+#: includes/TargetingMeta.php:95
+msgid "Pagination"
+msgstr ""
+
+#: includes/TargetingMeta.php:96
+msgid "Page Type: Attachments"
+msgstr ""
+
+#: includes/TargetingMeta.php:97
+msgid "Page Type: Homepage"
+msgstr ""
+
+#: includes/TargetingMeta.php:98
+msgid "Page Type: Blog Index"
+msgstr ""
+
+#: includes/TargetingMeta.php:99
+msgid "Page Type: 404 Page"
+msgstr ""
+
+#: includes/TargetingMeta.php:100
+msgid "Page Type: Search Results"
+msgstr ""
+
+#: includes/TargetingMeta.php:101
+msgid "Parent Page"
+msgstr ""
+
+#: includes/TargetingMeta.php:102
+msgid "Post Content"
+msgstr ""
+
+#: includes/TargetingMeta.php:103
+msgid "Post Type"
+msgstr ""
+
+#: includes/TargetingMeta.php:105
+msgid "Specific Page/Post"
+msgstr ""
+
+#: includes/TargetingMeta.php:106
+msgid "Tag"
+msgstr ""
+
+#: includes/TargetingMeta.php:107
+msgid "URL"
+msgstr ""
+
+#: includes/TargetingMeta.php:125
+msgid "Browser User Agent"
+msgstr ""
+
+#: includes/TargetingMeta.php:126
+msgid "Browser Language"
+msgstr ""
+
+#: includes/TargetingMeta.php:127
+msgid "Browser Width (px)"
+msgstr ""
+
+#: includes/TargetingMeta.php:128
+msgid "Geolocation (Specific)"
+msgstr ""
+
+#: includes/TargetingMeta.php:129
+msgid "Geolocation (Radius)"
+msgstr ""
+
+#: includes/TargetingMeta.php:130
+msgid "New Visitor"
+msgstr ""
+
+#: includes/TargetingMeta.php:131
+msgid "Referrer URL (Initial)"
+msgstr ""
+
+#: includes/TargetingMeta.php:132
+msgid "Site Impressions"
+msgstr ""
+
+#: includes/TargetingMeta.php:133
+msgid "Max Ad Impressions"
+msgstr ""
+
+#: includes/TargetingMeta.php:134
+msgid "Max Ad Clicks"
+msgstr ""
+
+#: includes/TargetingMeta.php:135
+msgid "User Logged In"
+msgstr ""
+
+#: includes/TargetingMeta.php:136
+msgid "User Role"
+msgstr ""
+
+#: includes/TargetingMeta.php:137
+msgid "User Capability"
+msgstr ""
+
+#: includes/TargetingMeta.php:151
+msgid "is"
+msgstr ""
+
+#: includes/TargetingMeta.php:152
+msgid "is not"
+msgstr ""
+
+#: includes/TargetingMeta.php:153
+msgid "older than"
+msgstr ""
+
+#: includes/TargetingMeta.php:154
+msgid "newer than"
+msgstr ""
+
+#: includes/TargetingMeta.php:155
+msgid "equals"
+msgstr ""
+
+#: includes/TargetingMeta.php:156
+msgid "less than"
+msgstr ""
+
+#: includes/TargetingMeta.php:157
+msgid "greater than"
+msgstr ""
+
+#: includes/TargetingMeta.php:158
+msgid "contains"
+msgstr ""
+
+#: includes/TargetingMeta.php:159
+msgid "does not contain"
+msgstr ""
+
+#: includes/TargetingMeta.php:160
+msgid "starts with"
+msgstr ""
+
+#: includes/TargetingMeta.php:161
+msgid "does not start with"
+msgstr ""
+
+#: includes/TargetingMeta.php:162
+msgid "ends with"
+msgstr ""
+
+#: includes/TargetingMeta.php:163
+msgid "does not end with"
+msgstr ""
+
+#: includes/TargetingMeta.php:175
+msgid "or"
+msgstr ""
+
+#: includes/TargetingMeta.php:176
+msgid "and"
+msgstr ""
+
+#: includes/TargetingVisitor.php:153
+msgid "miles"
+msgstr ""
+
+#: includes/TargetingVisitor.php:154
+msgid "kilometers"
+msgstr ""
+
+#: includes/TargetingVisitor.php:192
+msgid "OR State/Province/Region:"
+msgstr ""
+
+#: includes/TargetingVisitor.php:193
+msgid "OR City:"
+msgstr ""
+
+#: includes/TargetingVisitor.php:199
+msgid "from latitude:"
+msgstr ""
+
+#: includes/TargetingVisitor.php:200
+msgid "longitude:"
+msgstr ""
+
+#: includes/TargetingVisitor.php:291
+msgid "Select a location"
+msgstr ""
+
+#: includes/TargetingVisitor.php:324
+msgid "Afrikaans"
+msgstr ""
+
+#: includes/TargetingVisitor.php:325
+msgid "Arabic"
+msgstr ""
+
+#: includes/TargetingVisitor.php:326
+msgid "Arabic - UAE"
+msgstr ""
+
+#: includes/TargetingVisitor.php:327
+msgid "Arabic - Bahrain"
+msgstr ""
+
+#: includes/TargetingVisitor.php:328
+msgid "Arabic - Algeria"
+msgstr ""
+
+#: includes/TargetingVisitor.php:329
+msgid "Arabic - Egypt"
+msgstr ""
+
+#: includes/TargetingVisitor.php:330
+msgid "Arabic - Iraq"
+msgstr ""
+
+#: includes/TargetingVisitor.php:331
+msgid "Arabic - Jordan"
+msgstr ""
+
+#: includes/TargetingVisitor.php:332
+msgid "Arabic - Kuwait"
+msgstr ""
+
+#: includes/TargetingVisitor.php:333
+msgid "Arabic - Lebanon"
+msgstr ""
+
+#: includes/TargetingVisitor.php:334
+msgid "Arabic - Libya"
+msgstr ""
+
+#: includes/TargetingVisitor.php:335
+msgid "Arabic - Morocco"
+msgstr ""
+
+#: includes/TargetingVisitor.php:336
+msgid "Arabic - Oman"
+msgstr ""
+
+#: includes/TargetingVisitor.php:337
+msgid "Arabic - Qatar"
+msgstr ""
+
+#: includes/TargetingVisitor.php:338
+msgid "Arabic - Saudi Arabia"
+msgstr ""
+
+#: includes/TargetingVisitor.php:339
+msgid "Arabic - Syria"
+msgstr ""
+
+#: includes/TargetingVisitor.php:340
+msgid "Arabic - Tunisia"
+msgstr ""
+
+#: includes/TargetingVisitor.php:341
+msgid "Arabic - Yemen"
+msgstr ""
+
+#: includes/TargetingVisitor.php:342
+msgid "Aragonese"
+msgstr ""
+
+#: includes/TargetingVisitor.php:343
+msgid "Assamese"
+msgstr ""
+
+#: includes/TargetingVisitor.php:344
+msgid "Asturian"
+msgstr ""
+
+#: includes/TargetingVisitor.php:345
+msgid "Azerbaijani"
+msgstr ""
+
+#: includes/TargetingVisitor.php:346
+msgid "Belarusian"
+msgstr ""
+
+#: includes/TargetingVisitor.php:347 includes/TargetingVisitor.php:348
+msgid "Bulgarian"
+msgstr ""
+
+#: includes/TargetingVisitor.php:349
+msgid "Bengali"
+msgstr ""
+
+#: includes/TargetingVisitor.php:350
+msgid "Breton"
+msgstr ""
+
+#: includes/TargetingVisitor.php:351
+msgid "Bosnian"
+msgstr ""
+
+#: includes/TargetingVisitor.php:352
+msgid "Catalan"
+msgstr ""
+
+#: includes/TargetingVisitor.php:353
+msgid "Chechen"
+msgstr ""
+
+#: includes/TargetingVisitor.php:354
+msgid "Chamorro"
+msgstr ""
+
+#: includes/TargetingVisitor.php:355
+msgid "Corsican"
+msgstr ""
+
+#: includes/TargetingVisitor.php:356
+msgid "Cree"
+msgstr ""
+
+#: includes/TargetingVisitor.php:357
+msgid "Czech"
+msgstr ""
+
+#: includes/TargetingVisitor.php:358
+msgid "Chuvash"
+msgstr ""
+
+#: includes/TargetingVisitor.php:359
+msgid "Welsh"
+msgstr ""
+
+#: includes/TargetingVisitor.php:360
+msgid "Danish"
+msgstr ""
+
+#: includes/TargetingVisitor.php:361
+msgid "German"
+msgstr ""
+
+#: includes/TargetingVisitor.php:362
+msgid "German - Austria"
+msgstr ""
+
+#: includes/TargetingVisitor.php:363
+msgid "German - Switzerland"
+msgstr ""
+
+#: includes/TargetingVisitor.php:364
+msgid "German - Germany"
+msgstr ""
+
+#: includes/TargetingVisitor.php:365
+msgid "German - Liechtenstein"
+msgstr ""
+
+#: includes/TargetingVisitor.php:366
+msgid "German - Luxembourg"
+msgstr ""
+
+#: includes/TargetingVisitor.php:367
+msgid "Greek"
+msgstr ""
+
+#: includes/TargetingVisitor.php:368
+msgid "English"
+msgstr ""
+
+#: includes/TargetingVisitor.php:369
+msgid "English - Australia"
+msgstr ""
+
+#: includes/TargetingVisitor.php:370
+msgid "English - Belize"
+msgstr ""
+
+#: includes/TargetingVisitor.php:371
+msgid "English - Canada"
+msgstr ""
+
+#: includes/TargetingVisitor.php:372
+msgid "English - United Kingdom"
+msgstr ""
+
+#: includes/TargetingVisitor.php:373
+msgid "English - Ireland"
+msgstr ""
+
+#: includes/TargetingVisitor.php:374
+msgid "English - Jamaica"
+msgstr ""
+
+#: includes/TargetingVisitor.php:375
+msgid "English - New Zealand"
+msgstr ""
+
+#: includes/TargetingVisitor.php:376
+msgid "English - Philippines"
+msgstr ""
+
+#: includes/TargetingVisitor.php:377
+msgid "English - Trinidad & Tobago"
+msgstr ""
+
+#: includes/TargetingVisitor.php:378
+msgid "English - United States"
+msgstr ""
+
+#: includes/TargetingVisitor.php:379
+msgid "English - South Africa"
+msgstr ""
+
+#: includes/TargetingVisitor.php:380
+msgid "English - Zimbabwe"
+msgstr ""
+
+#: includes/TargetingVisitor.php:381
+msgid "Esperanto"
+msgstr ""
+
+#: includes/TargetingVisitor.php:382
+msgid "Spanish"
+msgstr ""
+
+#: includes/TargetingVisitor.php:383
+msgid "Spanish - Argentina"
+msgstr ""
+
+#: includes/TargetingVisitor.php:384
+msgid "Spanish - Bolivia"
+msgstr ""
+
+#: includes/TargetingVisitor.php:385
+msgid "Spanish - Chile"
+msgstr ""
+
+#: includes/TargetingVisitor.php:386
+msgid "Spanish - Colombia"
+msgstr ""
+
+#: includes/TargetingVisitor.php:387
+msgid "Spanish - Costa Rica"
+msgstr ""
+
+#: includes/TargetingVisitor.php:388
+msgid "Spanish - Dominican Republic"
+msgstr ""
+
+#: includes/TargetingVisitor.php:389
+msgid "Spanish - Ecuador"
+msgstr ""
+
+#: includes/TargetingVisitor.php:390
+msgid "Spanish - Spain"
+msgstr ""
+
+#: includes/TargetingVisitor.php:391
+msgid "Spanish - Guatemala"
+msgstr ""
+
+#: includes/TargetingVisitor.php:392
+msgid "Spanish - Honduras"
+msgstr ""
+
+#: includes/TargetingVisitor.php:393
+msgid "Spanish - Mexico"
+msgstr ""
+
+#: includes/TargetingVisitor.php:394
+msgid "Spanish - Nicaragua"
+msgstr ""
+
+#: includes/TargetingVisitor.php:395
+msgid "Spanish - Panama"
+msgstr ""
+
+#: includes/TargetingVisitor.php:396
+msgid "Spanish - Peru"
+msgstr ""
+
+#: includes/TargetingVisitor.php:397
+msgid "Spanish - Puerto Rico"
+msgstr ""
+
+#: includes/TargetingVisitor.php:398
+msgid "Spanish - Paraguay"
+msgstr ""
+
+#: includes/TargetingVisitor.php:399
+msgid "Spanish - El Salvador"
+msgstr ""
+
+#: includes/TargetingVisitor.php:400
+msgid "Spanish - Uruguay"
+msgstr ""
+
+#: includes/TargetingVisitor.php:401
+msgid "Spanish - Venezuela"
+msgstr ""
+
+#: includes/TargetingVisitor.php:402
+msgid "Estonian"
+msgstr ""
+
+#: includes/TargetingVisitor.php:403
+msgid "Basque"
+msgstr ""
+
+#: includes/TargetingVisitor.php:404
+msgid "Persian - Iran"
+msgstr ""
+
+#: includes/TargetingVisitor.php:405
+msgid "Farsi"
+msgstr ""
+
+#: includes/TargetingVisitor.php:406
+msgid "Finnish"
+msgstr ""
+
+#: includes/TargetingVisitor.php:407
+msgid "Fijian"
+msgstr ""
+
+#: includes/TargetingVisitor.php:408
+msgid "Faeroese"
+msgstr ""
+
+#: includes/TargetingVisitor.php:409
+msgid "French"
+msgstr ""
+
+#: includes/TargetingVisitor.php:410
+msgid "French - Belgium"
+msgstr ""
+
+#: includes/TargetingVisitor.php:411
+msgid "French - Canada"
+msgstr ""
+
+#: includes/TargetingVisitor.php:412
+msgid "French - Switzerland"
+msgstr ""
+
+#: includes/TargetingVisitor.php:413
+msgid "French - France"
+msgstr ""
+
+#: includes/TargetingVisitor.php:414
+msgid "French - Luxembourg"
+msgstr ""
+
+#: includes/TargetingVisitor.php:415
+msgid "French - Monaco"
+msgstr ""
+
+#: includes/TargetingVisitor.php:416
+msgid "Friulian"
+msgstr ""
+
+#: includes/TargetingVisitor.php:417
+msgid "Frisian"
+msgstr ""
+
+#: includes/TargetingVisitor.php:418
+msgid "Irish"
+msgstr ""
+
+#: includes/TargetingVisitor.php:419
+msgid "Gaelic - Irish"
+msgstr ""
+
+#: includes/TargetingVisitor.php:420
+msgid "Gaelic - Scots"
+msgstr ""
+
+#: includes/TargetingVisitor.php:421
+msgid "Scots Gaelic"
+msgstr ""
+
+#: includes/TargetingVisitor.php:422
+msgid "Galacian"
+msgstr ""
+
+#: includes/TargetingVisitor.php:423
+msgid "Gujurati"
+msgstr ""
+
+#: includes/TargetingVisitor.php:424
+msgid "Hebrew"
+msgstr ""
+
+#: includes/TargetingVisitor.php:425
+msgid "Hindi"
+msgstr ""
+
+#: includes/TargetingVisitor.php:426
+msgid "Croatian"
+msgstr ""
+
+#: includes/TargetingVisitor.php:427
+msgid "Upper Sorbian"
+msgstr ""
+
+#: includes/TargetingVisitor.php:428
+msgid "Haitian"
+msgstr ""
+
+#: includes/TargetingVisitor.php:429
+msgid "Hungarian"
+msgstr ""
+
+#: includes/TargetingVisitor.php:430
+msgid "Armenian"
+msgstr ""
+
+#: includes/TargetingVisitor.php:431
+msgid "Indonesian"
+msgstr ""
+
+#: includes/TargetingVisitor.php:432
+msgid "Icelandic"
+msgstr ""
+
+#: includes/TargetingVisitor.php:433
+msgid "Italian"
+msgstr ""
+
+#: includes/TargetingVisitor.php:434
+msgid "Italian - Switzerland"
+msgstr ""
+
+#: includes/TargetingVisitor.php:435
+msgid "Inuktitut"
+msgstr ""
+
+#: includes/TargetingVisitor.php:436
+msgid "Japanese"
+msgstr ""
+
+#: includes/TargetingVisitor.php:437
+msgid "Yiddish"
+msgstr ""
+
+#: includes/TargetingVisitor.php:438
+msgid "Georgian"
+msgstr ""
+
+#: includes/TargetingVisitor.php:439
+msgid "Kazakh"
+msgstr ""
+
+#: includes/TargetingVisitor.php:440
+msgid "Khmer"
+msgstr ""
+
+#: includes/TargetingVisitor.php:441
+msgid "Kannada"
+msgstr ""
+
+#: includes/TargetingVisitor.php:442
+msgid "Korean"
+msgstr ""
+
+#: includes/TargetingVisitor.php:443
+msgid "Korean - North Korea"
+msgstr ""
+
+#: includes/TargetingVisitor.php:444
+msgid "Korean - South Korea"
+msgstr ""
+
+#: includes/TargetingVisitor.php:445
+msgid "Kashmiri"
+msgstr ""
+
+#: includes/TargetingVisitor.php:446
+msgid "Kirghiz"
+msgstr ""
+
+#: includes/TargetingVisitor.php:447
+msgid "Latin"
+msgstr ""
+
+#: includes/TargetingVisitor.php:448
+msgid "Luxembourgish"
+msgstr ""
+
+#: includes/TargetingVisitor.php:449
+msgid "Lithuanian"
+msgstr ""
+
+#: includes/TargetingVisitor.php:450
+msgid "Latvian"
+msgstr ""
+
+#: includes/TargetingVisitor.php:451
+msgid "Maori"
+msgstr ""
+
+#: includes/TargetingVisitor.php:452
+msgid "FYRO Macedonian"
+msgstr ""
+
+#: includes/TargetingVisitor.php:453
+msgid "Malayalam"
+msgstr ""
+
+#: includes/TargetingVisitor.php:454
+msgid "Moldavian"
+msgstr ""
+
+#: includes/TargetingVisitor.php:455
+msgid "Marathi"
+msgstr ""
+
+#: includes/TargetingVisitor.php:456
+msgid "Malay"
+msgstr ""
+
+#: includes/TargetingVisitor.php:457
+msgid "Maltese"
+msgstr ""
+
+#: includes/TargetingVisitor.php:458
+msgid "Burmese"
+msgstr ""
+
+#: includes/TargetingVisitor.php:459
+msgid "Norwegian - Bokmal"
+msgstr ""
+
+#: includes/TargetingVisitor.php:460
+msgid "Nepali"
+msgstr ""
+
+#: includes/TargetingVisitor.php:461
+msgid "Ndonga"
+msgstr ""
+
+#: includes/TargetingVisitor.php:462
+msgid "Dutch"
+msgstr ""
+
+#: includes/TargetingVisitor.php:463
+msgid "Dutch - Belgian"
+msgstr ""
+
+#: includes/TargetingVisitor.php:464
+msgid "Norwegian - Nynorsk"
+msgstr ""
+
+#: includes/TargetingVisitor.php:465
+msgid "Norwegian"
+msgstr ""
+
+#: includes/TargetingVisitor.php:466
+msgid "Navajo"
+msgstr ""
+
+#: includes/TargetingVisitor.php:467
+msgid "Occitan"
+msgstr ""
+
+#: includes/TargetingVisitor.php:468
+msgid "Oromo"
+msgstr ""
+
+#: includes/TargetingVisitor.php:469
+msgid "Oriya"
+msgstr ""
+
+#: includes/TargetingVisitor.php:470
+msgid "Punjabi"
+msgstr ""
+
+#: includes/TargetingVisitor.php:471
+msgid "Punjabi - India"
+msgstr ""
+
+#: includes/TargetingVisitor.php:472
+msgid "Punjabi - Pakistan"
+msgstr ""
+
+#: includes/TargetingVisitor.php:473
+msgid "Polish"
+msgstr ""
+
+#: includes/TargetingVisitor.php:474
+msgid "Portuguese"
+msgstr ""
+
+#: includes/TargetingVisitor.php:475
+msgid "Portuguese - Brazil"
+msgstr ""
+
+#: includes/TargetingVisitor.php:476
+msgid "Quechua"
+msgstr ""
+
+#: includes/TargetingVisitor.php:477
+msgid "Rhaeto-Romanic"
+msgstr ""
+
+#: includes/TargetingVisitor.php:478
+msgid "Romanian"
+msgstr ""
+
+#: includes/TargetingVisitor.php:479
+msgid "Romanian - Moldavia"
+msgstr ""
+
+#: includes/TargetingVisitor.php:480
+msgid "Russian - Moldavia"
+msgstr ""
+
+#: includes/TargetingVisitor.php:481
+msgid "Russian"
+msgstr ""
+
+#: includes/TargetingVisitor.php:482
+msgid "Sanskrit"
+msgstr ""
+
+#: includes/TargetingVisitor.php:483
+msgid "Sorbian"
+msgstr ""
+
+#: includes/TargetingVisitor.php:484
+msgid "Sardinian"
+msgstr ""
+
+#: includes/TargetingVisitor.php:485
+msgid "Sindhi"
+msgstr ""
+
+#: includes/TargetingVisitor.php:486
+msgid "Sango"
+msgstr ""
+
+#: includes/TargetingVisitor.php:487
+msgid "Singhalese"
+msgstr ""
+
+#: includes/TargetingVisitor.php:488
+msgid "Slovak"
+msgstr ""
+
+#: includes/TargetingVisitor.php:489
+msgid "Slovenian"
+msgstr ""
+
+#: includes/TargetingVisitor.php:490
+msgid "Somani"
+msgstr ""
+
+#: includes/TargetingVisitor.php:491
+msgid "Albanian"
+msgstr ""
+
+#: includes/TargetingVisitor.php:492
+msgid "Serbian"
+msgstr ""
+
+#: includes/TargetingVisitor.php:493
+msgid "Swedish"
+msgstr ""
+
+#: includes/TargetingVisitor.php:494
+msgid "Swedish - Finland"
+msgstr ""
+
+#: includes/TargetingVisitor.php:495
+msgid "Swedish - Sweden"
+msgstr ""
+
+#: includes/TargetingVisitor.php:496
+msgid "Swahili"
+msgstr ""
+
+#: includes/TargetingVisitor.php:497
+msgid "Sutu"
+msgstr ""
+
+#: includes/TargetingVisitor.php:498
+msgid "Sami - Lappish"
+msgstr ""
+
+#: includes/TargetingVisitor.php:499
+msgid "Tamil"
+msgstr ""
+
+#: includes/TargetingVisitor.php:500
+msgid "Teluga"
+msgstr ""
+
+#: includes/TargetingVisitor.php:501
+msgid "Thai"
+msgstr ""
+
+#: includes/TargetingVisitor.php:502
+msgid "Tigre"
+msgstr ""
+
+#: includes/TargetingVisitor.php:503
+msgid "Turkmen"
+msgstr ""
+
+#: includes/TargetingVisitor.php:504
+msgid "Klingon"
+msgstr ""
+
+#: includes/TargetingVisitor.php:505
+msgid "Tswana"
+msgstr ""
+
+#: includes/TargetingVisitor.php:506
+msgid "Turkish"
+msgstr ""
+
+#: includes/TargetingVisitor.php:507
+msgid "Tsonga"
+msgstr ""
+
+#: includes/TargetingVisitor.php:508
+msgid "Tatar"
+msgstr ""
+
+#: includes/TargetingVisitor.php:509
+msgid "Ukrainian"
+msgstr ""
+
+#: includes/TargetingVisitor.php:510
+msgid "Urdu"
+msgstr ""
+
+#: includes/TargetingVisitor.php:511
+msgid "Venda"
+msgstr ""
+
+#: includes/TargetingVisitor.php:512
+msgid "Vietnamese"
+msgstr ""
+
+#: includes/TargetingVisitor.php:513
+msgid "Volapuk"
+msgstr ""
+
+#: includes/TargetingVisitor.php:514
+msgid "Walloon"
+msgstr ""
+
+#: includes/TargetingVisitor.php:515
+msgid "Xhosa"
+msgstr ""
+
+#: includes/TargetingVisitor.php:516
+msgid "Chinese"
+msgstr ""
+
+#: includes/TargetingVisitor.php:517
+msgid "Chinese - PRC"
+msgstr ""
+
+#: includes/TargetingVisitor.php:518
+msgid "Chinese - Hong Kong"
+msgstr ""
+
+#: includes/TargetingVisitor.php:519
+msgid "Chinese - Singapore"
+msgstr ""
+
+#: includes/TargetingVisitor.php:520
+msgid "Chinese - Taiwan"
+msgstr ""
+
+#: includes/TargetingVisitor.php:521
+msgid "Zulu"
+msgstr ""
+
+#: includes/Util.php:37
+msgid "Yes"
+msgstr ""
+
+#: includes/Util.php:38
+msgid "No"
+msgstr ""
+
+#: includes/Util.php:49
+msgid "None"
+msgstr ""
+
+#: includes/Util.php:50
+msgid "Left"
+msgstr ""
+
+#: includes/Util.php:51
+msgid "Right"
+msgstr ""
+
+#: includes/Util.php:215
+msgid "Sunday"
+msgstr ""
+
+#: includes/Util.php:215
+msgid "Monday"
+msgstr ""
+
+#: includes/Util.php:215
+msgid "Tuesday"
+msgstr ""
+
+#: includes/Util.php:215
+msgid "Wednesday"
+msgstr ""
+
+#: includes/Util.php:215
+msgid "Thursday"
+msgstr ""
+
+#: includes/Util.php:215
+msgid "Friday"
+msgstr ""
+
+#: includes/Util.php:215
+msgid "Saturday"
+msgstr ""
+
+#: includes/Util.php:474
+msgid "am"
+msgstr ""
+
+#: includes/Util.php:475
+msgid "pm"
+msgstr ""
+
+#: includes/Util.php:503
+msgid "Trash"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Ad Commander - Banner & Ad Manager"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/wildoperation/Ad-Commander"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Insert, schedule and track custom advertising banners or script ads from "
+"AdSense, Amazon, and other affiliate networks into your site."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Wild Operation"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://wildoperation.com"
+msgstr ""

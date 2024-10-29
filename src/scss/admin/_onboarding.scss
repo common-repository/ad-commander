@@ -1,0 +1,84 @@
+.adcmdr-ob-notice {
+	background: $secondary;
+	background: $secondary-gradient;
+	border-left: none;
+	border: none;
+	border-radius: 4px;
+	color: #fff;
+	padding: $gutter-width;
+	margin-top: $gutter-width;
+
+	h2,
+	h3 {
+		color: #fff;
+		margin-top: 0;
+	}
+
+	a:not(.button) {
+		color: #fff;
+		transition: opacity $speed $ease;
+
+		&:hover {
+			opacity: 0.75;
+		}
+	}
+
+	ul {
+		margin-top: $gutter-width-half;
+	}
+
+	.adcmdr-logo {
+		width: 200px;
+		height: auto;
+		max-width: 100%;
+	}
+}
+
+.wrap {
+	.adcmdr-ob-notice {
+		margin-top: $gutter-width;
+	}
+}
+
+.adcmdr-ob-row {
+	display: flex;
+	flex-direction: column;
+	gap: $gutter-width;
+
+	@media only screen and (min-width: $adm-breakpoint-md) {
+		flex-direction: row;
+		flex-wrap: wrap;
+
+		> .adcmdr-ob-col {
+			flex: 1;
+
+			p {
+				max-width: 400px;
+			}
+		}
+	}
+}
+
+.adcmdr-ob-intro {
+	border-bottom: 1px solid rgba($wp-border-color, 0.25);
+	padding-bottom: $gutter-width;
+	margin-bottom: $gutter-width;
+
+	@media only screen and (min-width: $adm-breakpoint-md) {
+		align-items: center;
+	}
+
+	.adcmdr-ob-dismiss {
+		@media only screen and (min-width: $adm-breakpoint-md) {
+			margin-left: auto;
+		}
+	}
+}
+
+.adcmdr-ob-notice--published {
+	.adcmdr-ob-intro {
+		h4 {
+			margin: 0;
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"name": "wildoperation/wo-log",
+	"description": "Simple logging function for use in WordPress plugins and themes.",
+	"keywords": [
+		"wordpress"
+	],
+	"license": "GPL-2.0-or-later",
+	"autoload": {
+		"files": [
+			"./wo-log.php"
+		]
+	}
+}

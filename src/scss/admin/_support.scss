@@ -1,0 +1,61 @@
+.adcmdr-postbox {
+	.adcmdr-addons-row {
+		padding: $gutter-width-half;
+	}
+}
+
+.adcmdr-addons {
+	width: 100%;
+
+	@media only screen and (min-width: $adm-breakpoint-md) {
+		width: auto;
+	}
+}
+
+.adcmdr-addon-features {
+	background: $gray-100;
+	border: 1px solid $gray-200;
+	border-radius: 4px;
+	height: calc(100% - (#{$gutter-width} * 2));
+	padding: $gutter-width;
+
+	> *:first-child {
+		margin-top: 0;
+	}
+
+	h3 {
+		margin: 0;
+		padding: 0;
+	}
+
+	ul {
+		padding: $gutter-width-half 0;
+		margin: $gutter-width-half 0 $gutter-width;
+		border-top: 1px solid rgba($wp-border-color, 0.25);
+		border-bottom: 1px solid rgba($wp-border-color, 0.25);
+	}
+
+	&.adcmdr-pro-features {
+		background: $secondary-gradient;
+		border-color: $secondary;
+		color: #fff;
+
+		h3 {
+			color: #fff;
+		}
+	}
+
+	.adcmdr-btn-group {
+	}
+}
+
+.adcmdr-flexrowend {
+	display: flex;
+	flex-direction: column;
+
+	@media only screen and (min-width: $adm-breakpoint-md) {
+		flex-direction: row;
+		align-items: flex-end;
+		gap: $gutter-width;
+	}
+}

@@ -1,0 +1,23 @@
+{
+	"require": {
+		"wildoperation/wp-plugin-review-bug": "dev-master",
+		"typisttech/imposter-plugin": "^0.6.2",
+		"wildoperation/wo-log": "dev-master",
+		"wildoperation/wo-admin-framework": "dev-master"
+	},
+	"autoload": {
+		"psr-4": {
+			"ADCmdr\\": "includes/"
+		}
+	},
+	"extra": {
+		"imposter": {
+			"namespace": "ADCmdr\\Vendor"
+		}
+	},
+	"config": {
+		"allow-plugins": {
+			"typisttech/imposter-plugin": true
+		}
+	}
+}

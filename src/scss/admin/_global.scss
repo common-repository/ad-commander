@@ -1,0 +1,10 @@
+.adcmdr-btn-group {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	gap: $gutter-width-half;
+
+	&--center {
+		align-items: center;
+	}
+}

@@ -1,0 +1,18 @@
+#adminmenu {
+	#toplevel_page_ad-commander {
+		div.wp-menu-image {
+			background: url(../img/icon.svg) no-repeat center center;
+			background-size: 18px auto;
+		}
+
+		&:hover {
+			div.wp-menu-image {
+				background-image: url(../img/icon-hover.svg);
+			}
+		}
+
+		&.wp-menu-open div.wp-menu-image {
+			background-image: url(../img/icon-active.svg);
+		}
+	}
+}
